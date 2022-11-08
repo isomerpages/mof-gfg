@@ -8,12 +8,12 @@ description: The Group was formally established by the G20 Finance Ministers and
   sustainable growth in a new global era.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "Notification: This is a staging site!"
 sections:
   - hero:
-      title: Hero title
+      title: Why the need for reform
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/banner1.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -33,5 +33,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
