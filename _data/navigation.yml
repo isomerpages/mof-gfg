@@ -1,8 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: G20 Eminent Persons Group EPG
     collection: g20-eminent-persons-group
+  - title: Contact Us
+    url: /contact-us/
