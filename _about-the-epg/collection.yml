@@ -1,4 +1,5 @@
 collections:
   about-the-epg:
     output: true
-    order: []
+    order:
+      - EPG Members.md
