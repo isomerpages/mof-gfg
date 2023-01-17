@@ -1,4 +1,5 @@
 collections:
   g20-eminent-persons-group:
     output: true
-    order: []
+    order:
+      - Foreword.md
