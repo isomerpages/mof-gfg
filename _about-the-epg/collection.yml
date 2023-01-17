@@ -1,0 +1,4 @@
+collections:
+  about-the-epg:
+    output: true
+    order: []
