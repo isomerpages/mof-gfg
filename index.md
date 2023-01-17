@@ -12,17 +12,16 @@ notification: "Notification: This is a staging site!"
 sections:
   - hero:
       title: Why the need for reform
-      subtitle: Hero subtitle
       background: /images/banner1.png
-      button: Contact Us
-      url: /contact-us/
+      button: Find Out More
+      url: /overview/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Overview
+          description: Cooperative International Order
+          url: /overview/
+        - title: Achieving Greater Dev Impact
+          description: Collaborating across the System
+          url: /development/
         - title: Page A
           description: Page A is important too
           url: /privacy/
