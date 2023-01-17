@@ -2,6 +2,7 @@ collections:
   g20-eminent-persons-group:
     output: true
     order:
+      - Finance.md
       - Development.md
       - Overview.md
       - Foreword.md
