@@ -4,3 +4,5 @@ links:
     collection: g20-eminent-persons-group
   - title: Contact Us
     url: /contact-us/
+  - title: About the EPG
+    collection: example-folder
