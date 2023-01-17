@@ -16,19 +16,25 @@ sections:
       button: Find Out More
       url: /overview/
       key_highlights:
-        - title: Overview
-          description: Cooperative International Order
-          url: /overview/
         - title: Achieving Greater Dev Impact
           description: Collaborating across the System
           url: /development/
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Inconnected Financial Markets
+          description: Global Financial Resilience
+          url: /finance/
+        - title: The G20 and the IFIs
+          description: Make System work as a System
+          url: /governance/
+      subtitle: Cooperative International Order
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: "-"
+      subtitle: Download
+      description: Report of the G20 EPG on Global Financial Governance
+      button: Full Report (4,702 KB)
       url: /faq/
+  - infobar:
+      title: Acknowledgements
+      subtitle: "-"
+      description: 160 chars here...
+      button: Button Text
 ---
