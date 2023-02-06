@@ -3,7 +3,7 @@ url: https://www.globalfinancialgovernance.org
 favicon: /images/gfg-title.png
 colors:
   primary-color: "#262626"
-  secondary-color: "#08085c"
+  secondary-color: "#002060"
   media-colors:
     - title: media-color-one
       color: "#49759a"
