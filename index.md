@@ -6,7 +6,7 @@ description: The Group was formally established by the G20 Finance Ministers and
   the global financial architecture and governance of the system of
   international financial institutions so as to promote economic stability and
   sustainable growth in a new global era.
-image: /images/isomer-logo.svg
+image: /images/gfg-title.png
 permalink: /
 notification: "Notification: This is a staging site!"
 sections:
@@ -37,3 +37,4 @@ sections:
       description: 160 chars here...
       button: Button Text
 ---
+
