@@ -2,5 +2,6 @@ collections:
   events-media:
     output: true
     order:
+      - Non Papers/.keep
       - Events.md
       - United Nations 2019 ECOSOC Forum.md
