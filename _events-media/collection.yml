@@ -2,5 +2,5 @@ collections:
   events-media:
     output: true
     order:
-      - United Nations 2019 ECOSOC Forum.md
       - Events.md
+      - United Nations 2019 ECOSOC Forum.md
