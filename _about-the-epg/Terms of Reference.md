@@ -3,8 +3,7 @@ title: Terms of Reference
 permalink: /about-the-epg/Terms-of-Reference/
 description: ""
 ---
-
-# G20 Eminent Persons Group on Global Financial Governance
+### G20 Eminent Persons Group on Global Financial Governance
 
 * The G20 Eminent Persons Group on Global Financial Governance (the Group) was formally established by G20 Finance Ministers and Central Bank Governors on 21 April 2017.
 
