@@ -1,0 +1,4 @@
+collections:
+  events-media:
+    output: true
+    order: []
