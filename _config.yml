@@ -1,6 +1,6 @@
 title: G20 Eminent Persons Group on Global Financial Governance
 url: https://www.globalfinancialgovernance.org
-favicon: /images/favicon-isomer.ico
+favicon: /images/gfg-title.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -55,7 +55,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dqjbnw28te336.amplifyapp.com
 prod: https://master.dqjbnw28te336.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/gfg-title.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
