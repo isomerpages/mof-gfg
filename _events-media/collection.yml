@@ -2,6 +2,7 @@ collections:
   events-media:
     output: true
     order:
+      - Media Coverage.md
       - Events/United Nations 2019 ECOSOC Forum.md
       - Events/All Events.md
       - Events/.keep
