@@ -2,4 +2,6 @@ collections:
   events-media:
     output: true
     order:
+      - United Nations 2019 ECOSOC Forum on Financing for Development follow up
+        (FfD Forum) in April 2019.md
       - Events.md
