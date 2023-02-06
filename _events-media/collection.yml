@@ -1,4 +1,5 @@
 collections:
   events-media:
     output: true
-    order: []
+    order:
+      - Events.md
