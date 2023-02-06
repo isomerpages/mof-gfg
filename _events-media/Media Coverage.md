@@ -102,43 +102,17 @@ News Articles:
     Bloomberg: Large Foreign Inflows are Growth Risks, Singapore Deputy PM Says, 12 October 2018
     
     ](https://www.bloomberg.com/news/articles/2018-10-12/large-foreign-inflows-are-growth-risk-singapore-deputy-pm-says)
-*   [
-    
-    Bloomberg: Singapore's Deputy PM on EM Rout, U.S. Dollar Dependence, Global Economy, 12 October 2018
-    
-    ](https://www.bloomberg.com/news/videos/2018-10-12/singapore-s-deputy-pm-on-em-rout-u-s-dollar-dependence-global-economy-video)
-*   [
-    
-    CNBC: It’s ‘Crazy’ that Current Account Deficits Today are Considered ‘A Sin:’ Singapore Deputy PM, 13 October 2018
-    
-    ](https://www.cnbc.com/2018/10/13/singapore-deputy-pm-on-current-account-deficits.html)
-*   [
-    
-    CNBC: Singapore Deputy PM - Seeing a Reduction in Growth 'By Stealth', 12 October 2018
-    
-    ](https://www.cnbc.com/video/2018/10/12/singapore-deputy-pm-seeing-a-reduction-in-growth-by-stealth.html)
-*   [
-    
-    CNBC Transcript: Singapore Deputy PM - Seeing a Reduction in Growth 'By Stealth', 12 October 2018
-    
-    ](https://www.cnbc.com/2018/10/12/cnbc-transcript-tharman-shanmugaratnam-deputy-prime-minister-of-singapore.html)
-*   [
-    
-    Forbes: Asian Review -More $000s Than Heroes of Late, 13 December 2018
-    
-    ](https://www.forbes.com/sites/timferguson/2018/12/13/asian-review-more-000s-than-heroes-of-late/#300a2ec27c1d)
-*   [
-    
-    Straits Times: G-20 Panel by Tharman Calls for Reset of Global Financial System to Better Tackle Challenges, 12 October 2018
-    
-    ](https://www.straitstimes.com/world/g20-panel-led-by-tharman-issues-call-to-reset-global-financial-governance-to-better-tackle)
-*   [
-    
-    Wall Street Journal: The Bad Trade-offs Emerging Markets Face, 14 October 2018
-    
-    ](https://www.wsj.com/articles/the-bad-trade-offs-emerging-markets-face-1539518868)
-*   [
-    
-    Zaobao: Tharman Shanmugaratnam: When There is a Large In-Flow of Capital, Government Should Allocate Resources Accordingly to Promote Economic Development, 13 October 2018
-    
-    ](https://www.zaobao.com.sg/finance/singapore/story20181013-898733)
+* Bloomberg: Singapore's Deputy PM on EM Rout, U.S. Dollar Dependence, Global Economy, 12 October 2018
+(https://www.bloomberg.com/news/videos/2018-10-12/singapore-s-deputy-pm-on-em-rout-u-s-dollar-dependence-global-economy-video)
+* CNBC: It’s ‘Crazy’ that Current Account Deficits Today are Considered ‘A Sin:’ Singapore Deputy PM, 13 October 2018
+(https://www.cnbc.com/2018/10/13/singapore-deputy-pm-on-current-account-deficits.html)
+* CNBC: Singapore Deputy PM - Seeing a Reduction in Growth 'By Stealth', 12 October 2018
+(https://www.cnbc.com/video/2018/10/12/singapore-deputy-pm-seeing-a-reduction-in-growth-by-stealth.html)
+* CNBC Transcript: Singapore Deputy PM - Seeing a Reduction in Growth 'By Stealth', 12 October 2018
+(https://www.cnbc.com/2018/10/12/cnbc-transcript-tharman-shanmugaratnam-deputy-prime-minister-of-singapore.html)
+*  Forbes: Asian Review -More $000s Than Heroes of Late, 13 December 2018
+(https://www.forbes.com/sites/timferguson/2018/12/13/asian-review-more-000s-than-heroes-of-late/#300a2ec27c1d)
+*  Straits Times: G-20 Panel by Tharman Calls for Reset of Global Financial System to Better Tackle Challenges, 12 October 2018
+(https://www.straitstimes.com/world/g20-panel-led-by-tharman-issues-call-to-reset-global-financial-governance-to-better-tackle)
+* Wall Street Journal: The Bad Trade-offs Emerging Markets Face, 14 October 2018 (https://www.wsj.com/articles/the-bad-trade-offs-emerging-markets-face-1539518868)
+* Zaobao: Tharman Shanmugaratnam: When There is a Large In-Flow of Capital, Government Should Allocate Resources Accordingly to Promote Economic Development, 13 October 2018  (https://www.zaobao.com.sg/finance/singapore/story20181013-898733)
