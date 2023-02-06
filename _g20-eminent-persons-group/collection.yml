@@ -2,10 +2,10 @@ collections:
   g20-eminent-persons-group:
     output: true
     order:
-      - List of Contributors.md
-      - Annexes.md
-      - Governance.md
       - Foreword.md
       - Overview.md
       - Development.md
       - Finance.md
+      - Governance.md
+      - Annexes.md
+      - List of Contributors.md
