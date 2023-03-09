@@ -8,6 +8,14 @@ image: ""
 ---
 The EPG’s report – Making the Global Financial System Work for All was presented on 11 October to the G20 Finance Ministers and Central Bank Governors (FMCBG) at their meeting in Bali, and featured in discussions at the 2018 Institute of International Finance (IIF) Annual Membership Meeting on 12 October. Three EPG-focused panels - (i) In Conversation with EPG Chair, Deputy Prime Minister Tharman Shanmugaratnam, (ii) panel on Achieving Greater Development Impact: Collaborating across the System, and (iii) panel on Securing the Benefits of Interconnected Financial Markets: Reforms for Global Financial Resilience were held during the IIF meeting.
 
+#### EPG Panels at the IIF Annual Member Meetings 2018 ####
+
+Press Statement on the Release of G20 EPG on Global Financial Governance Report
+
+Media Coverage on the Release of G20 EPG on Global Financial Governance Report
+
+Photos of the EPG Panels at the IIF Annual Membership Meetings 2018
+
 #### IN CONVERSATION: MAKING THE SYSTEM WORK AS A SYSTEM
 
 [![In Conversation with Tharman at IIF annual meeting](/images/Events%20Media/2018-11-in-conversation-tharman.jpg)
