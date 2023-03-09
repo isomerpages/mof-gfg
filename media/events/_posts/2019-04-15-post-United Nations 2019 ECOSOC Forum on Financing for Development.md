@@ -15,4 +15,3 @@ Deputy Prime Minister Tharman Shanmugaratnam was invited to deliver the keynote 
 [Transcript of Keynote Speech](/files/Events%20Media%20Files/Transcript-of-Speech-at-the-ECOSOC-4TH-Forum-on-Financing-for-Development.pdf)
 
 [Link to Video of Keynote Speech](https://youtu.be/fKxP4SiO4eo)
-[Video to Keynote](https://youtu.be/fKxP4SiO4eo)
