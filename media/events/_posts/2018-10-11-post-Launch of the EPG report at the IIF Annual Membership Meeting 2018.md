@@ -10,6 +10,10 @@ The EPG’s report – Making the Global Financial System Work for All was prese
 
 #### IN CONVERSATION: MAKING THE SYSTEM WORK AS A SYSTEM
 
+![In Conversation with Tharman at IIF annual meeting](/images/Events%20Media/2018-11-in-conversation-tharman.jpg)
+Youtube link
+https://www.youtube.com/watch?v=wdr8IXFUPA0
+
 The conversation discussed the key recommendations of the G20 Eminent Persons Group on Global Financial Governance (EPG)’s Report. The Group called for reforms to meet the realities of a new era: a multipolar, yet more interconnected world; with development challenges ahead that are much larger than we have seen in decades; and with significant work still needed to avert damaging financial crises.
 
 *   Tharman Shanmugaratnam (G20 EPG Chair) - Deputy Prime Minister, Singapore; Chairman, Monetary Authority of Singapore; Chairman of the Group of Thirty
