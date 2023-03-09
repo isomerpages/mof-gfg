@@ -21,6 +21,8 @@ The conversation discussed the key recommendations of the G20 Eminent Persons Gr
     
 
 #### EPG - ACHIEVING GREATER DEVELOPMENT IMPACT: COLLABORATING ACROSS THE SYSTEM
+[![EPG panel](/images/Events%20Media/2018-11-epg-panel.jpg)
+Link to video](https://www.youtube.com/watch?v=SRdWZ4Gqyi0)
 
 The next decade is critical, EPG members discussed the Group’s proposals to reduce and manage risk, catalyze much larger private investment, and achieve substantially greater impact in sustainable development and inclusive growth, and in managing the growing pressures in the global commons.
 
