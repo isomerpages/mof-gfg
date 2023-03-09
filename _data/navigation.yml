@@ -8,3 +8,5 @@ links:
     collection: events-media
   - title: Contact Us
     url: /contact-us/
+  - title: Media
+    resource_room: true
