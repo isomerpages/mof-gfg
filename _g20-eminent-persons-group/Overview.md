@@ -4,8 +4,7 @@ permalink: /g20-eminent-persons-group/permalink/
 description: Building a Cooperative International Order for a New Era
 ---
 [Download Overview (131 KB)](/files/G20EPG-Key%20Thrusts%20and%20Overview.pdf)
-
-A. Building a Cooperative International Order for a New Era
+### A. Building a Cooperative International Order for a New Era ###
 
 We are at a critical juncture. Our fundamental challenge is to build **a cooperative international order suited to the 21st century: one that delivers win-win outcomes for nations in a multipolar world**. It is within our reach to do so. We otherwise face the prospect of fragmentation, and the steady weakening of our capacity to respond to the much larger national and collective challenges of the future.
 
@@ -41,13 +40,80 @@ We need a credible and well-coordinated global financial architecture to meet th
 
 The reforms that we propose in our report strengthen and add resilience to **global financial governance** for the cooperative international order that we believe is needed for a more decentralized and more challenged world. The reforms seek to  **achieve significantly higher impact for sustainable and inclusive development**; to enable countries to preserve financial stability and **secure the benefits of interconnected financial markets**; and to focus governance on **making the system work as a system** rather than a set of individual agencies. We also propose **resetting the role of the G20 in the IMFS**,  to free up space on its agenda for Ministers to focus on developing political consensus around the key strategic issues of the times and crisis responses.
 
-B. Achieving Greater Development Impact: Collaborating Across the System
+### B. Achieving Greater Development Impact: Collaborating Across the System ###
 
-Up Arrow
+Bold and urgent reforms in development policies and financing are required to achieve the major step-up in growth, job opportunities and sustainability that the world needs in the next decade. The current pace of reforms will not get us there.
 
-C. Securing the Benefits of Interconnected Financial Markets: Reforms for Global Financial Resilience
+The challenges are complex, because they are interlocking. Conflict and insecurity, weak investment in human capital and infrastructure, and limited growth of jobs and incomes feed into each other. Environmental vulnerabilities and infectious disease threats, if not addressed, will also push large numbers into extreme poverty and forced migration. The required doubling of the world’s infrastructure in the next 15 years to achieve the needed growth and jobs, highlights the risk of locking in unsustainable infrastructure for the much longer term. The interconnectedness of the system also means that success or failure in achieving sustainability in one part of the world will have profound effects on development prospects elsewhere.
 
-Up Arrow
+There are at the same time major positives on the horizon. A wave of entrepreneurship and innovation is sweeping across the developing world,  spreading into low-income countries too. Mobile technologies, cloud computing and e-commerce are opening up markets for small producers everywhere, improving productivity, and making finance more inclusive. Global health R&D, if sustained, also has the potential to deal with malaria and other major diseases, with important economic and social dividends. Technologies for urban management are enabling transport, utilities and other services to be provided in a more citizen-centered way.
+
+Reforms to tackle these challenges and maximize the potential of technologies and markets are needed in every continent. But to bend the arc of history, we must succeed in Africa, where the poverty, demographic and environmental challenges are the largest – and so too the opportunities to contribute to world growth and the global commons. The consequences of failure will not be simply economic.
+
+The magnitude of the development challenge will require greater resources than before, from every source – domestic savings and public revenues, and external financing from private, official and philanthropic sources. Even by conservative projections, the gap in infrastructure financing alone is well over US$1 trillion annually. This gap in financing must be closed,  to ensure the quality and scale of investments in economic and social infrastructure that will be critical in the next decade.
+
+However, strategies to scale up development finance must also reckon with the reality that public sector debts (including contingent liabilities) are reaching unsustainable levels in several developing countries. The aspirations of the 2030 Development Agenda can be achieved only if financial stability is sustained. Primary reliance cannot be placed on sovereign loans to achieve development goals.
+
+Two key strategies therefore need much greater priority. First, to strengthen public finances and domestic resource mobilization. There is significant potential to strengthen tax collection and reduce leakages through corruption and waste, at the levels of both central and local governments. These public resources underpin efforts to develop human capital and strengthen the investment climate. Together with efforts to build up local currency markets and stimulate domestic savings, they also provide the domestic financial resilience on which long-term investment depends. The international community must also support these national efforts by closing opportunities for tax evasion and money laundering.
+
+Second, it is equally clear that we must stimulate a much larger scale of private investment than has been achieved historically.  Given the significant increase in debt ratios in many countries, much greater emphasis will have to be given to equity financing. However, private investment in developing country infrastructure has so far been only a small fraction of its potential. On current initiatives, private funding is unlikely to scale up significantly, despite ample supply globally. Investment risks, actual and perceived, remain too high for all but the most specialized players, and the required returns are hence also too high for countries to bear. The market for infrastructure investments is too fragmented, and the tools to diversify project and country risks are limited.
+
+We must therefore organize the world’s multilateral development capabilities and resources in a new way to tackle these challenges and achieve greater and more lasting development impact. There is much potential to be unlocked by governing the system as a system rather than as individual institutions.
+
+We have to put risk at the center of strategies to boost development finance, given the need for much larger volumes of private investment, and in particular equity financing. We must maximize the IFIs’ unique ability to help reduce and manage risk:
+
+*   By helping countries to de-risk their whole investment environment (besides de-risking projects). The IFIs must collaborate to help countries take advantage of best practices in governance and regulation, and persist in reforms.
+    
+*   By pioneering investments in low-income countries and states with features of fragility, in critical areas such as energy infrastructure, to reduce perceived risks and pave the way for private investments.
+    
+*   By mitigating risk through instruments such as first-loss guarantees, and co-investments to catalyze private investment. Importantly, they must use their risk-mitigation tools to harness the full potential of private investment in low-income countries – not just in the middle-income countries where blended finance has so far been heavily concentrated.
+    
+*   By leveraging on the largely untapped potential to pool and diversify risks across the development finance system, so as to create new asset classes for private investors.
+
+The scale and urgency of needs require decisive, system-wide shifts. We believe significantly greater development impact can be achieved by:
+
+*   Refocusing on governance capacity and human capital. Supporting countries’ efforts in these areas will provide the critical foundations for an attractive investment climate, job creation and economic dynamism, and social stability, as decades of experience show.
+    
+    *   Governance reform lasts only when it comes from within. But the IFIs, as trusted partners in the adoption of best practices and institutional innovations, have to work more closely together, and with countries’ other development partners, to support enduring reforms.
+        
+    *   \- The IFIs must also support governments in ensuring the broadest base in human capital development: providing equality of opportunity for all, regardless of gender, ethnicity and social backgrounds.
+        
+    
+*   Joining up IFIs’ operations, as well as with those of other development partners, to enhance development impact:
+    
+    *   Country platforms can be transformational in their impact. Effective country platforms will maximize the contributions of development partners as a group and scale up private investments, including by convergence around core standards.
+        
+        *   A country platform must be owned by its government, encourage competition, and retain the government’s flexibility to engage with the most suitable partners. However, transparency within the platform is essential to avoid zerosum competition, such as through subsidies or lower standards.
+            
+        *   Coherent and complementary operations between development partners will help scale up private sector investment. The adoption of core standards can also lower the private sector’s costs in working with a range of partners.
+            
+        *   Priority has to be given to linking up security, humanitarian and development efforts in states with features of fragility, working with UN agencies and other partners.
+            
+        *   Cooperation within the country platforms would enable rapid response in times of crisis.
+            
+        *   Cooperation at the country level should be supported by global platforms for IFIs to cooperate on key thematic issues such as sustainable infrastructure.
+            
+    *   Implement regional platforms to facilitate transformative cross-border infrastructure projects that enable regional connectivity and open up new supply chains and markets.
+        
+    
+*   Multiplying private capital by adopting system-wide approaches to risk insurance and securitization. Institutional investor participation in developing country infrastructure has so far been miniscule. The development of a standardized, large-scale asset class, that diversifies risk across the development finance system, will help mobilize this huge untapped pool of investments.
+    
+*   Reassessing regulatory capital and other prudential norms for the Multilateral Development Banks (MDBs), as well as institutional investors in infrastructure, based on the evidence of their default experience.
+    
+*   Strengthening joint capacity to tackle challenges of the global commons, through global platforms that bring together the players in each field –  coordinated by the designated UN guardian agency and the World Bank, which has the broadest reach amongst the MDBs. For specific commons, there will be Regional Development Banks (RDBs) and other stakeholders with significant capabilities that should play key roles.
+    
+*   Mainstreaming activities in support of the global commons into IFIs’ core country-based operations. We must likewise integrate trust fund activities with the MDBs’ strategies and operations, to avoid parallel structures that pose significant costs to efficiency and impact.
+    
+*   Investing in data and research to support sound, evidence-based policies. Basic data still falls short in many developing countries. These are public goods in their own right. The International Monetary Fund (IMF) and World Bank should work with UN agencies and RDBs to strengthen efforts in these areas.
+    
+*   Achieving stronger synergies with business alliances, NGOs and philanthropies so as to benefit from their on-the-ground perspectives, innovations and delivery capacity. The IFIs must work with governments to collaborate with and leverage on these actors more systematically, identifying key needs and providing space and co-funding where required so they can play their full roles.
+    
+
+These system-wide shifts will enable the international community to meet the vastly larger development needs of the future. They will help mobilize private capital, which is a potential game-changer in development finance. However, private capital is unlikely to engage on the scale required without the involvement of the IFIs – in project origination, risk participation, and staying engaged with governments on reforms.
+
+While the G20 Eminent Persons Group’s (EPG) mandate does not include making specific proposals to enhance the IFIs’ capital bases, we underline the need for their official shareholders to review periodically the need for capital replenishments to ensure that they achieve their full potential in a world of growing challenges in development, growth and stability. The capital reviews must be supported by the reforms to the IFIs to ensure they can most effectively perform their roles as catalysts for private investment and multipliers of development. It is equally necessary for the effectiveness of the IFIs that their shareholding structures are updated regularly to reflect an evolving world economy.
+
+### C. Securing the Benefits of Interconnected Financial Markets: Reforms for Global Financial Resilience ###
 
 Governance of the IMFS should be focused on its most fundamental goals: enabling countries to reach their full growth and development potential; and averting the damage caused by financial crises.
 
@@ -94,9 +160,7 @@ Third, it is important to put in place a standing global liquidity facility, d
 
 We must also address the global safety net requirements in the event of a large and severe future crisis. Such needs are not catered for in the permanent resources of the IMF. There is no assurance that the solutions effected in the midst of the last crisis, especially the large liquidity swaps between selected central banks, will be available in future.15 We have to explore temporary mechanisms to mobilize resources on the scale required to ensure global stability in such systemic ‘tail risk’ events. However, the available solutions face governance and policy challenges, on which there are differing views. These must first be resolved through a process of consensus building. The EPG is hence not proposing a solution for endorsement at this stage.
 
-D. The G20 and the IFIs: Making the System Work as a System
-
-Up Arrow
+### D. The G20 and the IFIs: Making the System Work as a System ###
 
 The G20 has been a powerful impetus for change. Its members have equal standing within its consensus-based setting, which gives the G20 added credibility in a multipolar world. The G20 has used these advantages to promote several initiatives following the global crisis, for example in strengthening financial regulation through the work of the FSB and achieving tax transparency via the OECD.
 
@@ -137,9 +201,7 @@ With a new clarity of roles and responsibilities, shareholders should also consi
 
 An open, transparent and merit-based process for the selection of IFI heads is also essential to the sustained legitimacy and effectiveness of the IFIs.
 
-E. Conclusion
-
-Up Arrow
+### E. Conclusion ###
 
 Taken as a whole, the reforms serve a common agenda: to enable nations to create the jobs of the future and achieve more sustainable and inclusive growth, to eliminate extreme poverty and enable youthful populations to achieve their aspirations, to avert financial crises and the lasting damage they inflict on societies, and to tackle the pressing challenges in the global commons that affect us all.
 
