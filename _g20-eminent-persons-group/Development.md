@@ -104,11 +104,7 @@ The scale and urgency of needs requires decisive, system-wide shifts.  We beli
     
 *   Achieving stronger synergies with business alliances, NGOs and philanthropies so as to benefit from their on-the-ground perspectives, innovations and delivery capacity. The IFIs must work with governments to collaborate with and leverage on these actors more systematically, identifying key needs and providing space and co-funding where required so they can play their full roles.
 
-[Collapse All](https://www.globalfinancialgovernance.org/report-of-the-g20-epg-on-gfg/development/)
-
-Proposal 1: Re-focus on governance capacity and human capital, as foundations for a stronger investment climate.
-
-Up Arrow
+### Proposal 1: Re-focus on governance capacity and human capital, as foundations for a stronger investment climate. ###
 
 Governance and human capital development have been at the core of the successful development stories of the last half century.
 
@@ -129,9 +125,7 @@ The IFIs can also be effective in sensitizing governments to a critical unfinis
 
 However, building governance capacity and developing human capital take time. Special attention must be paid to countries with significant elements of fragility,to help reformist governments to achieve progress in creating jobs and widening access to services, and thereby build public support for continuing reforms. There is otherwise a real risk of governance reforms being undermined by a lack of demonstrated success in improving welfare.
 
-Proposal 2: Build effective country platforms to mobilize all development partners to unlock investments, and maximize their contributions as a group, including by convergence around core standards.
-
-Up Arrow
+### Proposal 2: Build effective country platforms to mobilize all development partners to unlock investments, and maximize their contributions as a group, including by convergence around core standards. ###
 
 Country platforms, owned by governments, will enhance contributions from all development partners including the private sector. They can be transformational in their development impact:
 
@@ -192,9 +186,7 @@ The coordination and coherence achieved on such platforms will help significantl
 
 Country platforms will also be effective instruments in the case of crises. When they are functioning well, they will provide a coordinating mechanism to bring together the government and relevant IFIs, bilateral agencies, relevant UN agencies and other non-governmental actors at the onset of a crisis. They can provide organizing frameworks for humanitarian and other assistance as their operating principles will facilitate coordination and collaboration in real time.
 
-Proposal 3: Implement regional platforms to facilitate transformational cross-border investments and connectivity.
-
-Up Arrow
+### Proposal 3: Implement regional platforms to facilitate transformational cross-border investments and connectivity. ###
 
 Regional approaches help promote economic opportunity by allowing countries to overcome economic constraints resulting from geography such as lack of access to ports, lack of infrastructure connectivity especially in transport, and poor energy and water availability.
 
@@ -202,9 +194,7 @@ Regional projects are usually complex and expensive. They require the involvemen
 
 The regional platforms will allow for better collaboration and division of labor among the development partners operating in a region.28 They can also be used to accommodate small countries’ projects and programs, where individual country platforms may not be as viable.
 
-Proposal 4: Reduce and diversify risk on a system-wide basis to mobilize significantly greater private investment, including portfolio-based infrastructure financing.
-
-Up Arrow
+### Proposal 4: Reduce and diversify risk on a system-wide basis to mobilize significantly greater private investment, including portfolio-based infrastructure financing. ###
 
 The IFIs’ efforts to help countries to strengthen government capacity (Proposal 1) and to derive synergies among development partners from well-functioning country and regional platforms (Proposals 2 and 3) are critical to strengthening the investment environment and project pipelines. However, to mobilize the vastly greater resources required to meet the coming development challenges, we must maximize the potential of capital markets and institutional investors Greater private financing in infrastructure must also be achieved without adding significantly to sovereign liabilities in countries where debt sustainability limits have been reached.
 
@@ -219,7 +209,7 @@ There is significant scope for system-wide approaches to reduce, manage and div
 *   Developing a large and diversified asset class that enables institutional investors to deploy funds in developing country infrastructure.
     
 
-#### Proposal 4a: Shift the basic business model of the MDBs from direct lending towards risk mitigation aimed at mobilizing private capital.
+#### Proposal 4a: Shift the basic business model of the MDBs from direct lending towards risk mitigation aimed at mobilizing private capital. ####
 
 The MDBs, which have traditionally focused on lending, should shift to using their balance sheets to mitigate risk. MDBs (and bilateral development partners) have a unique ability to manage risks  in developing countries through their multilateral ownership and ability to influence governments. They are hence well placed to provide credit enhancement (e.g. taking the first loss piece in a synthetic securitization structure) with institutional investors coming in to take a standardized senior debtexposure which can be priced lower to reflect the lower risk.
 
@@ -250,9 +240,7 @@ There is a significant amount of loans in the MDB system, infrastructure-related
 
 New sovereign loans can also be pooled for investment, which should ideally be done once the market is familiar with the asset class. This can be done by clean sales of loan portfolios to private and institutional investors which would not involve a transfer of preferred creditor status (see Annex 2 for more details).
 
-Proposal 5: ‘Right-size’ capital requirements for MDBs and other infrastructure investors, given their default experience.
-
-Up Arrow
+### Proposal 5: ‘Right-size’ capital requirements for MDBs and other infrastructure investors, given their default experience. ###
 
 A set of prudential norms specific to and applied across all MDBs need to be established, based on their unique characteristics and default experience. Currently, the regulatory capital and liquidity standards and rating methodologies applied to MDBs are adapted from those developed for commercial banks and do not sufficiently reflect their distinctive shareholding structures, preferred creditor status and default experience. The different rating agencies also adopt varying methodologies for the MDBs. As a consequence, the MDBs each have different adaptations and capital and liquidity buffers. The larger the buffers, the more constrained the MDBs will be in their financial capacity.
 
@@ -279,9 +267,7 @@ Institutional investors from both developed and emerging markets are constrained
 
 There is scope to review the regulatory treatment of infrastructure debt based on the evidence, and to consider it as a distinct asset class from corporate debt with its own differentiated risk profile. There is also scope for risks to be differentiated between the construction and operation phases, with the latter posing a lower level of risk.
 
-Proposal 6: Strengthen joint capacity to tackle the challenges of the global commons.
-
-Up Arrow
+### Proposal 6: Strengthen joint capacity to tackle the challenges of the global commons. ###
 
 The global commons face a wide range of challenges, including environmental threats related to climate change, degradation of ecosystems, loss of biodiversity, water scarcity and threats to oceans and specific health-related threats from pandemics and the rapid spread of antimicrobial resistance. The poor are often more exposed and invariably more vulnerable. Another related challenge involves forced displacement of people because of conflict, natural disasters and lack of security. These are challenges for all countries, but the international community has a critical role to play both in supporting developing countries in protecting the global commons and through their own national actions.
 
@@ -330,9 +316,7 @@ The evolving architecture for global health to combat pandemics, and anti-microb
 
 A new cooperative international order must also enable mobilization of flexible coalitions of countries and institutions around specific global or regional commons. One such initiative is the UN-World Bank High Level Panel on Water. The Bangladesh Delta Plan 2100 was launched on this common undertaking and is an example of how multilateral organizations, bilateral partners and national authorities can join forces and avoid fragmented efforts for greater long term impact. The Global Commission on Adaptation, soon to be established, is another example of how a coalition of partners can come together on a critical challenge.
 
-Proposal 7: Integrate trust fund activities into MDBs’ core operations to avoid fragmentation.
-
-Up Arrow
+### Proposal 7: Integrate trust fund activities into MDBs’ core operations to avoid fragmentation. ###
 
 MDBs currently operate with considerable resources outside of their balance sheets, mostly in the form of trust funds.44 These funds represent donors or coalitions of donors that are willing to provide additional financial support to achieve specific development objectives. However, the large number of trust funds and their alternative governance structures are fragmenting MDB activities, driving a misalignment between trust-funded activities and the MDBs’ strategic objectives, and engendering administrative and operational inefficiencies. Moreover, trust fund activities can complicate and reduce country-ownership as they are generally earmarked for specific purposes and are non-fungible.
 
@@ -352,9 +336,7 @@ There are some examples of approaches that integrate additional resources with M
 *   The International Finance Facility for Education (IFFEd) is a new initiative targeted at supplementing MDB financing for lower-middle income countries as they lose access to concessional financing.
     
 
-Proposal 8: Plug shortfalls in data and research that hamper effective policymaking, especially in developing countries.
-
-Up Arrow
+### Proposal 8: Plug shortfalls in data and research that hamper effective policymaking, especially in developing countries. ###
 
 There are major deficiencies in basic social, economic and environmental data, especially in developing countries. We must address these deficiencies in order to design and implement effective national programs for inclusive growth and human capital development.
 
@@ -362,9 +344,7 @@ The IFIs have a unique and globally important role to play in the generation, an
 
 With the production of data and research come a responsibility to share. The IFIs have often played a leading role in promoting transparency, but they must go further, particularly in sharing information with each other, with governments, and, wherever appropriate the public at large.
 
-Proposal 9: Leverage more systematically on the ideas and operating networks of business alliances, NGOs and philanthropies.
-
-Up Arrow
+### Proposal 9: Leverage more systematically on the ideas and operating networks of business alliances, NGOs and philanthropies. ###
 
 There is significant scope to leverage on business alliances, NGOs and philanthropies to improve development impact. They contribute new ideas, grassroots perspectives, and can mobilize expertise and resources that complement those available to the IFIs. They can also enhance delivery capacity in situations where the IFIs have difficulty engaging, such as in situations of fragility and conflict.
 
