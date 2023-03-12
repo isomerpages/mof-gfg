@@ -150,9 +150,7 @@ The official community did not see the Global Financial Crisis (GFC) coming. Whi
 
 Further, the complexity and interconnectivity of the system are continually evolving ' with changing business models, new players spread out more widely geographically, and new technologies. Given this rapidly changing landscape, no one international body - the IMF, FSB or the BIS alone - can have a comprehensive grip on the risks in this system. However, existing responsibilities for global financial stability are still too diffused. The last crisis illustrated the consequences.
 
-Proposal 12: Integrate the surveillance efforts of the IMF, FSB and BIS in a coherent global risk map, while preserving the independence of each of the three institutions' perspectives.
-
-Up Arrow
+### Proposal 12: Integrate the surveillance efforts of the IMF, FSB and BIS in a coherent global risk map, while preserving the independence of each of the three institutions' perspectives. ###
 
 Effective and integrated global surveillance and risk identification will reduce the likelihood of future crises. We must bring the distinct lenses of the IMF, FSB and BIS together, while retaining their comparative advantages ' the IMF on economic and macro-financial risks, spillovers and sovereign vulnerabilities; the FSB on financial system vulnerabilities, including the effects of regulatory adaptations and resulting incentives; and the BIS on global flows and market infrastructure. Illustrative contributions by the three institutions are sketched in Annex 4.
 
@@ -179,9 +177,7 @@ A joint team from the three institutions, \- taking inputs systematically from
 
 Conventional official wisdom has tended to be behind the curve, particularly in detecting major disruptions in the global financial system. The last crisis was a case in point, where it was the minority view that warned of the coming disruption. Furthermore, given the complexity and decentralization of today's global financial system, a systematic way of tapping market views and intelligence on potential disruptions is required. The surveillance framework in Proposal 12 should seek out such views.
 
-Proposal 13: Build on the IMF-FSB Early Warning Exercise (EWE) to ensure policy follow-up from the global risk map.
-
-Up Arrow
+### Proposal 13: Build on the IMF-FSB Early Warning Exercise (EWE) to ensure policy follow-up from the global risk map. ###
 
 The IMF-FSB EWE should provide the home for policy discussion of global risks among Ministers and Central Bank Governors.
 
@@ -197,7 +193,7 @@ Sustaining openness and policies aimed at global growth requires a more predicta
 
 Chart 2: Evolution of the GFSN
 
-![Evolution of the GFSN](https://www.globalfinancialgovernance.org/assets/images/reports/evolution-of-the-GFSN.jpg)
+![Evolution of the GFSN](/images/Report/Finance/evolution-of-the-GFSN.jpg)
 
 Source: IMF and Bank of England
 
@@ -216,13 +212,11 @@ The IMF provides this key global layer in the GFSN. The IMF's permanent resou
 
 Chart 3: Share of IMF Resources Before and After the Global Financial Crisis
 
-![Share of IMF Permanent Resources Before and After the Global Financial Crisis](https://www.globalfinancialgovernance.org/assets/images/reports/share-of-IMF-permanent-resources.jpg)
+![Share of IMF Permanent Resources Before and After the Global Financial Crisis](/images/Report/Finance/share-of-IMF-permanent-resources.jpg)
 
 Source: IMF and Bank of England
 
-Proposal 14: Stitch together the various layers of the GFSN to achieve scale and predictability.
-
-Up Arrow
+### Proposal 14: Stitch together the various layers of the GFSN to achieve scale and predictability. ###
 
 It is crucial to stitch together the various layers of the safety net well before any major crisis occurs and resources are needed. Effective governance arrangements should encourage sound country policies, and, under specified circumstances, effect joint use of financial resources. A properly designed system, applied in an even-handed manner, can avoid moral hazard, minimize contagion and avoid excessive self-insurance.
 
@@ -235,9 +229,7 @@ No one design will fit all regions. However, a clear assignment of responsibilit
 *   IMF is the most credible and independent party to lead in making these assessments. It alone conducts macro-financial surveillance at a global level and bilateral level, and operates financing facilities which places it in a unique position to provide required assessments.
     
 
-Proposal 15: Establish a standing IMF liquidity facility to give countries timely access to temporary support during global liquidity shocks.
-
-Up Arrow
+### Proposal 15: Establish a standing IMF liquidity facility to give countries timely access to temporary support during global liquidity shocks. ###
 
 It is critical that we build and achieve consensus on a 'standing' global liquidity facility, drawing on IMF permanent resources (see also Section A). Without a reliable liquidity facility, countries will build up excessive reserves, which will hamper global growth. Timely access to such a facility would also strengthen countries' ability to withstand liquidity shocks and avoid a deeper crisis.
 
@@ -256,9 +248,7 @@ A stitched together GFSN could include parallel activation of temporary liquidit
 *   Promote common operating protocols and hence improve speed of crisis response.
     
 
-Proposal 16: Enable the IMF to rapidly mobilize additional resources in large and severe global crises.
-
-Up Arrow
+### Proposal 16: Enable the IMF to rapidly mobilize additional resources in large and severe global crises. ###
 
 There is a critical need to plug the gap in the GFSN with regard to future crises of a systemic, 'tail risk' nature. This requires exploring the possible temporary mechanisms through which the international community can rapidly access a significant amount of liquidity to ensure or restore financial stability.
 
