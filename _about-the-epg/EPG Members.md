@@ -69,50 +69,50 @@ Professor of International and Public Affairs at Columbia University; former Dep
 
 Chairman of the Board of Directors of UniCredit; former Minister for Economy and Finance, Italy; former Director General of the Bank of Italy
 
-![Andrés Velasco](https://www.globalfinancialgovernance.org/assets/images/members/Professor-Andres-Velasco.jpg)
+![Andrés Velasco](/images/Members/Professor-Andres-Velasco.jpg)
 
-Andrés Velasco
+**Andrés Velasco**
 
 Dean of the School of Public Policy at the London School of Economics and Political Science; former Professor of Professional Practice in International Development at Columbia University; former Sumitomo Professor of International Finance, Harvard Kennedy School; former Minister for Finance, Chile
 
-![Marek Belka](https://www.globalfinancialgovernance.org/assets/images/members/MBelka.jpg)
+![Marek Belka](/images/Members/MBelka.jpg)
 
-Marek Belka
+**Marek Belka**
 
 Former Chairman of IMF-World Bank Development Committee; former Prime Minister of Poland; former President of the National Bank of Poland
 
-![Nora Lustig](https://www.globalfinancialgovernance.org/assets/images/members/Lustig.jpg)
+![Nora Lustig](/images/Members/Lustig.jpg)
 
-Nora Lustig
+**Nora Lustig**
 
 Samuel Z. Stone Professor of Latin American Economics and Director of the Commitment to Equity Institute at Tulane University; President Emeritus of the Latin American and Caribbean Economic Association; former Senior Advisor on Poverty of the IDB
 
-![Lord Nicholas Stern](https://www.globalfinancialgovernance.org/assets/images/members/Lord-Nicholas-Stern.jpg)
+![Lord Nicholas Stern](/images/Members/Lord-Nicholas-Stern.jpg)
 
-Lord Nicholas Stern
+**Lord Nicholas Stern**
 
 IG Patel Professor of Economics and Government at the London School of Economics and Political Science; former Chief Economist and Senior Vice-President of the World Bank; former Chief Economist of the EBRD
 
-![Zhu Min](https://www.globalfinancialgovernance.org/assets/images/members/Zhumin.jpg)
+![Zhu Min](/images/Members/Zhumin.jpg)
 
-Zhu Min
+**Zhu Min**
 
 President of the National Institute of Financial Research at Tsinghua University; former Deputy Managing Director of the IMF
 
 ### Secretariat
 
-Siddharth Tiwari (Executive Secretary)
+**Siddharth Tiwari (Executive Secretary)**
 
 Distinguished Visiting Fellow at Lee Kuan Yew School of Public Policy; former Director of the Strategy, Policy and Review Department of the International Monetary Fund
 
-David Marston
+**David Marston**
 
 Former Chief Risk Officer of the International Monetary Fund
 
-Erik Berglöf
+**Erik Berglöf**
 
 Director of the Institute of Global Affairs at London School of Economics and Political Science; former Chief Economist of the European Bank for Reconstruction and Development
 
-R. Kyle Peters
+**R. Kyle Peters**
 
 Former Senior Vice-President of Operations of the World Bank
