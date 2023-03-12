@@ -3,6 +3,8 @@ title: Overview
 permalink: /g20-eminent-persons-group/permalink/
 description: Building a Cooperative International Order for a New Era
 ---
+[Download Overview (131 KB)](/files/G20EPG-Key%20Thrusts%20and%20Overview.pdf)
+
 A. Building a Cooperative International Order for a New Era
 
 We are at a critical juncture. Our fundamental challenge is to build **a cooperative international order suited to the 21st century: one that delivers win-win outcomes for nations in a multipolar world**. It is within our reach to do so. We otherwise face the prospect of fragmentation, and the steady weakening of our capacity to respond to the much larger national and collective challenges of the future.
