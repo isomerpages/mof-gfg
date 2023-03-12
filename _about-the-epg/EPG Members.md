@@ -33,39 +33,39 @@ Mary and Robert Raymond Professor of Economics at Stanford University and George
 
 Advisor to the Prime Minister of Ethiopia; former Minister for Finance and Economic Development, Ethiopia; former Vice-Chair of the Intergovernmental Group of Twenty-Four on International Monetary Affairs and Development
 
-![Otmar Issing](https://www.globalfinancialgovernance.org/assets/images/members/Issing.jpg)
+![Otmar Issing](/images/Members/Issing.jpg)
 
-Otmar Issing
+**Otmar Issing**
 
 President of the Center for Financial Studies, Goethe University; former member of the Executive Board and Chief Economist of the European Central Bank
 
-![Raghuram G. Rajan](https://www.globalfinancialgovernance.org/assets/images/members/Raghuram-Rajan.jpg)
+![Raghuram G. Rajan](/images/Members/Raghuram-Rajan.jpg)
 
-Raghuram G. Rajan
+**Raghuram G. Rajan**
 
 Katherine Dusak Miller Distinguished Service Professor of Finance at Booth School of Business at the University of Chicago; former Governor of the Reserve Bank of India; former Economic Counsellor and Director of Research of the IMF
 
-![Jean-Claude Trichet](https://www.globalfinancialgovernance.org/assets/images/members/Jean-Claude%20TRICHET.jpg)
+![Jean-Claude Trichet](/images/Members/Jean-Claude%20TRICHET.jpg)
 
-Jean-Claude Trichet
+**Jean-Claude Trichet**
 
 Chairman of the European Group of the Trilateral Commission; Chairman of the Board of the Bruegel Institute; former President of the European Central Bank
 
-![Ali Babacan](https://www.globalfinancialgovernance.org/assets/images/members/babacan.jpg)
+![Ali Babacan](/images/Members/babacan.jpg)
 
-Ali Babacan
+**Ali Babacan**
 
 Former Deputy Prime Minister for Economic and Financial Affairs; former Foreign Affairs Minister and former Treasury Minister, Turkey
 
-![Takatoshi Ito](https://www.globalfinancialgovernance.org/assets/images/members/Ito.jpg)
+![Takatoshi Ito](/images/Members/Ito.jpg)
 
-Takatoshi Ito
+**Takatoshi Ito**
 
 Professor of International and Public Affairs at Columbia University; former Deputy Vice-Minister of Finance for International Affairs, Japan
 
-![Fabrizio Saccomanni](https://www.globalfinancialgovernance.org/assets/images/members/Mr-Fabrizio-Saccomanni.jpg)
+![Fabrizio Saccomanni](/images/Members/Mr-Fabrizio-Saccomanni.jpg)
 
-Fabrizio Saccomanni
+**Fabrizio Saccomanni**
 
 Chairman of the Board of Directors of UniCredit; former Minister for Economy and Finance, Italy; former Director General of the Bank of Italy
 
