@@ -37,7 +37,7 @@ The post-World War II experience of industrialized countries demonstrates that 
 
 Chart 1: Non-resident Net Capital Flows to EMDCs\*
 
-![Non-resident Net Capital Flows to EMDCs*](https://www.globalfinancialgovernance.org/assets/images/reports/non-resident-net-capital-flows.jpg)
+![Non-resident Net Capital Flows to EMDCs*](/images/Report/Finance/non-resident-net-capital-flows.jpg)
 
 Source: IMF
 
@@ -69,7 +69,7 @@ Broadly speaking, capital flows take a few predominant forms: foreign direct inv
 
 Non-resident Net Capital Flows to Major EMs
 
-![Non-resident Net Capital Flows to Major EMs](https://www.globalfinancialgovernance.org/assets/images/reports/non-resident-net-capital-flows-to-major-ems.jpg)
+![Non-resident Net Capital Flows to Major EMs](/images/Report/Finance/non-resident-net-capital-flows-to-major-ems.jpg)
 
 Source: Institute of International Finance
 
@@ -79,11 +79,7 @@ Surges and sudden stops of short-term flows can lead to sharp bouts of volatilit
 
 Studies show that 'push' factors (reflecting developments in sending countries and shifts in global risk sentiment) have been playing an increasingly active role in volatility of capital flows and asset prices. At the same time, 'pull' factors (e.g. a receiving country's own policies and circumstances) still explain a significant part of why the impact of a global volatility event varies across EMs.
 
-[Collapse All](https://www.globalfinancialgovernance.org/report-of-the-g20-epg-on-gfg/finance/)
-
-Proposal 10: The IFI community should strengthen and accelerate efforts to help countries develop deep, resilient and inclusive domestic financial markets.
-
-Up Arrow
+### Proposal 10: The IFI community should strengthen and accelerate efforts to help countries develop deep, resilient and inclusive domestic financial markets. ###
 
 Deep, resilient and inclusive domestic markets are critical to growth and development and must be a key priority, especially for emerging and developing economies. They help countries to better absorb capital flows and enable an efficient allocation of funds to productive uses in the real sector.
 
@@ -98,9 +94,7 @@ The IMF, World Bank and RDBs should strengthen and coordinate their efforts in p
 
 Efforts in this regard should tie in closely with the policy recommendations of the framework described in Proposal 11a.
 
-Proposal 11: The IMF's framework of policy guidance should enable countries to move toward the long-run goal of openness to capital flows and to better manage the risks to financial stability.
-
-Up Arrow
+### Proposal 11: The IMF's framework of policy guidance should enable countries to move toward the long-run goal of openness to capital flows and to better manage the risks to financial stability. ###
 
 A more comprehensive framework of policy guidance is needed to help countries preserve macroeconomic and financial stability, and thereby enable them to make consistent progress towards openness. Experience has shown that countries will only remain on such a path if they can manage episodes of excessive volatility in capital flows and exchange rates and protect domestic financial stability. A framework of policy guidance should help them prevent the build-up of risks in normal times, and to avoid market disruptions and contagion during times of stress
 
