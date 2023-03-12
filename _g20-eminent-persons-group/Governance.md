@@ -49,11 +49,11 @@ Important steps were taken this year by the Argentine Presidency to gather G20 
 
 Over time, the number of G20 workstreams and the frequency of meetings have grown substantially73 (see Table 1). In addition, the growing G20 agenda and activities have overlapped with the governance of the IFIs. The accumulation of initiatives and activities risks crowding out issues that require the G20’s strategic guidance –  those where governance hurdles in the system need to be overcome, and where decisive shifts can only be implemented when they are effected across institutions, not just in individual institutions.
 
-The G20 needs to refocus on strategic global goals while leveraging more on the IFIs and other international organizations..
+The G20 needs to refocus on strategic global goals while leveraging more on the IFIs and other international organizations.
 
 Table 1: G20 Meetings Over Time
 
-![G20 Meetings Over Time](https://www.globalfinancialgovernance.org/assets/images/reports/g20-meetings-over-time.jpg)
+![G20 Meetings Over Time](/images/Report/Governance/g20-meetings-over-time.jpg)
 
 In keeping with this objective, a two-tier system within the G20 could be sufficient for most purposes, comprising Ministerial meetings focused on strategic challenges and Deputies’ meetings to support the former and ensure follow through.
 
@@ -74,9 +74,7 @@ While our proposals are, in keeping with our mandate, focused on global financia
 
 Governance of the IFIs as a system should be focused on ensuring coherence and synergies in a more diverse and decentralized world, and on collectively catalyzing private investments, so as to enable greater development impact.
 
-Proposal 18: Proposal 18: A G20-led group, with representation from key non-G20 constituencies and the IFIs, should steer the reorientation of development finance over the next three years before handing the coordinating role to the IFI Heads. This should include building complementarity among all development partners, and a clear system of metrics to track impact and value for money.
-
-Up Arrow
+### Proposal 18: A G20-led group, with representation from key non-G20 constituencies and the IFIs, should steer the reorientation of development finance over the next three years before handing the coordinating role to the IFI Heads. This should include building complementarity among all development partners, and a clear system of metrics to track impact and value for money. ###
 
 An effective forum is required to ensure this major reorientation of the system of development finance. However, there is currently no effective forum with universal membership that has a system-wide remit in development and that can steer the important shifts to ensure coherence and complementarity among the IFIs as well as with other major development partners. The G20, which has a system-wide focus as a result of major countries being represented in the Group, does not have universal membership. The Development Committee (DC), which has universal membership, primarily focuses on one institution.
 
@@ -95,9 +93,7 @@ A key task of this group would be to propose system-wide objectives, milestones
 *   Metrics of value for money to ensure that the MDBs, individually and collectively, are achieving the best value for their clients, shareholders and other stakeholders.
     
 
-Proposal 19: A biennial strategic forum convened by the IMFC and DC78 should identify development risks before they manifest, and the required collective responses.
-
-Up Arrow
+### Proposal 19: A biennial strategic forum convened by the IMFC and DC78 should identify development risks before they manifest, and the required collective responses. ###
 
 We have to do better in anticipating risks to development before they manifest, spiral across countries and create lasting damage. There are repeated instances where we have failed to do so in the last few decades.
 
@@ -132,9 +128,7 @@ Key priorities in governance reforms should include:
 *   Focus the agendas of Executive Boards on governance of strategic issues and country strategies and away from a disproportionate tilt towards operational decision-making and transactional functions.
     
 
-Proposal 20: The Executive Board of each IFI should focus on strategic priorities for the institution and advancing system-wide goals.
-
-Up Arrow
+### Proposal 20: The Executive Board of each IFI should focus on strategic priorities for the institution and advancing system-wide goals. ###
 
 The Executive Board should focus on articulating and implementing system-wide policies and standards and setting directions for the institution in line with the agreed goals. The re-orientation of responsibilities in the case of the MDB boards could include determining:
 
@@ -156,9 +150,7 @@ Table 2: IFI Executive Board Budgets
 \*In addition to the 28 members and the European Commission (with voting rights), the EIB’s board also comprises 6 permanent experts (without voting rights).  
 Sources: Stilpon Nestor, 2018, Board Effectiveness in International Financial Institutions, AIIB Yearbook of International Law; and IFIs
 
-Proposal 21: Adopt a practical, risk-based approach to delegate greater responsibility to IFI Management, and hold them accountable for outcomes.
-
-Up Arrow
+### Proposal 21: Adopt a practical, risk-based approach to delegate greater responsibility to IFI Management, and hold them accountable for outcomes. ###
 
 There is significant scope for Boards to delegate greater responsibility to IFI Management, on a practical and risk-based approach. As part of a holistic review, consideration should be given for the IFIs to amend their Articles of Agreement, where necessary, to support this.
 
@@ -171,9 +163,7 @@ The clarity of roles and responsibilities will enable Management to be empowered
 
 Management would have to guide this process of transformation within each institution
 
-Proposal 22: Ensure diversity and better match the skills available to IFI Boards and Management to the shift in business models and increased complexity of challenges.
-
-Up Arrow
+### Proposal 22: Ensure diversity and better match the skills available to IFI Boards and Management to the shift in business models and increased complexity of challenges. ###
 
 The Executive Boards should adopt modern corporate governance practices to ensure the IFIs’ effectiveness in a more complex environment. This should include:
 
