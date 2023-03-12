@@ -3,40 +3,33 @@ title: EPG Members
 permalink: /about-the-epg/permalink/
 description: ""
 ---
-| ![Tharman Shanmugaratnam (Chair)](/images/Members/tharman.jpg) | ![Jacob A. Frenkel](/images/Members/jacob.jpg) | ![Ngozi Okonjo-Iweala](/images/Members/ngozi.jpg) | ![John B. Taylor](/images/Members/john.jpg) |
-| -------- | -------- | -------- | -------- |
-| Tharman Shanmugaratnam (Chair)| Jacob A. Frenkel | Ngozi Okonjo-Iweala | John B. Taylor |
-| Deputy Prime Minister, Singapore; Coordinating Minister for Economic and Social Policies, Singapore; Chairman, Monetary Authority of Singapore; Chairman of the Group of Thirty; former Chairman of the International Monetary and Financial Committee     | Chairman of JP Morgan Chase International; Chairman of the Board of Trustees of the Group of Thirty; former Governor of the Bank of Israel; former Chairman of the Inter-American Development Bank; former Economic Counsellor and Director of Research of the IMF     | Chairperson of the Board of GAVI; former Coordinating Minister for the Economy and Minister for Finance, Nigeria; former Managing Director of the World Bank   | Mary and Robert Raymond Professor of Economics at Stanford University and George P. Shultz Senior Fellow at Stanford University’s Hoover Institution; former Under Secretary of the Treasury, US |
+![Tharman Shanmugaratnam (Chair)](/images/Members/DPM-Tharman-Shanmugaratnam.jpg)
 
-### Members
-
-![Tharman Shanmugaratnam (Chair)](https://www.globalfinancialgovernance.org/assets/images/members/DPM-Tharman-Shanmugaratnam.jpg)
-
-Tharman Shanmugaratnam (Chair)
+**Tharman Shanmugaratnam (Chair)**
 
 Deputy Prime Minister, Singapore; Coordinating Minister for Economic and Social Policies, Singapore; Chairman, Monetary Authority of Singapore; Chairman of the Group of Thirty; former Chairman of the International Monetary and Financial Committee
 
-![Jacob A. Frenkel](https://www.globalfinancialgovernance.org/assets/images/members/Frenkel.jpg)
+![Jacob A. Frenkel](/images/Members/Frenkel.jpg)
 
-Jacob A. Frenkel
+**Jacob A. Frenkel**
 
 Chairman of JP Morgan Chase International; Chairman of the Board of Trustees of the Group of Thirty; former Governor of the Bank of Israel; former Chairman of the Inter-American Development Bank; former Economic Counsellor and Director of Research of the IMF
 
-![Ngozi Okonjo-Iweala](https://www.globalfinancialgovernance.org/assets/images/members/Dr-Ngozi-Okonjo-Iweala.jpg)
+![Ngozi Okonjo-Iweala](/images/Members/Dr-Ngozi-Okonjo-Iweala.jpg)
 
-Ngozi Okonjo-Iweala
+**Ngozi Okonjo-Iweala**
 
 Chairperson of the Board of GAVI; former Coordinating Minister for the Economy and Minister for Finance, Nigeria; former Managing Director of the World Bank
 
-![John B. Taylor](https://www.globalfinancialgovernance.org/assets/images/members/Professor-John-B-Taylor.jpg)
+![John B. Taylor](/images/Members/Professor-John-B-Taylor.jpg)
 
-John B. Taylor
+**John B. Taylor**
 
 Mary and Robert Raymond Professor of Economics at Stanford University and George P. Shultz Senior Fellow at Stanford University’s Hoover Institution; former Under Secretary of the Treasury, US
 
-![Sufian Ahmed](https://www.globalfinancialgovernance.org/assets/images/members/Sufian.jpg)
+![Sufian Ahmed](/images/Members/Sufian.jpg)
 
-Sufian Ahmed
+**Sufian Ahmed**
 
 Advisor to the Prime Minister of Ethiopia; former Minister for Finance and Economic Development, Ethiopia; former Vice-Chair of the Intergovernmental Group of Twenty-Four on International Monetary Affairs and Development
 
