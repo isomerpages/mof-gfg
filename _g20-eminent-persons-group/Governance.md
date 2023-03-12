@@ -5,7 +5,7 @@ description: ""
 ---
 [Download Governance (3,613 KB)](/files/G20EPG-Governance.pdf)
 
-### The G20 and the IFIs: Making the System Work as a System###
+### The G20 and the IFIs: Making the System Work as a System ###
 
 The role of the G20 in the global financial architecture should be reset. It should focus on developing political consensus on key strategic issues and crisis response. (Proposal 17) This requires freeing up space from its current crowded agenda and devolving work to the IFIs.
 
