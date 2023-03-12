@@ -3,6 +3,7 @@ title: Foreword
 permalink: /permalink/
 description: Why the need for reform?
 ---
+[Download Foreword (127 KB)](/files/G20EPG-Foreword.pdf)
 
 We were asked by the G20 Finance Ministers and Central Bank Governors in April 2017 to recommend reforms to the global financial architecture and governance of the system of International Financial Institutions (IFIs), so as to promote economic stability and sustainable growth in a new global era; and to consider how the G20 could better provide continued leadership and support for these goals.
 
