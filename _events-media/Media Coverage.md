@@ -27,8 +27,7 @@ The op-ed appeared on the Financial Times on 12 October 2018. It is reproduced w
 * [Adam Tooze: Chartbook on Shutdown #3: Why does the World Bank care about its bond ratings? The Alice in Wonderland world of multilateral development finance, 8 September 2021](https://adamtooze.substack.com/p/chartbook-on-shutdown-3-why-does)
 * [Brookings Institution: Making The Global Financial System Work for All: A Message for the G-20, 29 November 2018](https://www.brookings.edu/blog/up-front/2018/11/29/making-the-global-financial-system-work-for-all-a-message-for-the-g-20/)
 * [Brookings Institution: Systems Thinking for Multilaterals – New Report on Global Financial Governance, 12 October 2018](https://www.brookings.edu/blog/future-development/2018/10/12/systems-thinking-for-multilaterals-new-report-on-global-financial-governance/)
-* [Center for Global Development: The EPG’s Call to Action, 11 October 2018
-(https://www.cgdev.org/blog/epgs-call-action)]
+* [Center for Global Development: The EPG’s Call to Action, 11 October 2018](https://www.cgdev.org/blog/epgs-call-action)
 * [Economics One: Three Attributes of a Sustainable Open and Stable Global Order, 14 October 2018](https://economicsone.com/2018/10/14/three-attributes-of-a-sustainable-open-and-stable-global-order/)
 * [European Bank for Reconstruction and Development (EBRD): EBRD Welcomes Multilateral Focus in New Report on Global Financial Governance, 13 October 2018](https://www.ebrd.com/cs/Satellite?c=Content&cid=1395277232262&d=Mobile&pagename=EBRD%2FContent%2FContentLayout)
 
