@@ -4,7 +4,7 @@ permalink: /events-media/non-papers/
 description: ""
 ---
 The Group received valuable feedback and written contributions from individuals and institutions with extensive experience as national and international policy-makers, thought leaders, and private sector and civil society leaders. The non-papers below are some of the written contributions received and which the authors have agreed to share publicly:
-[](/files/Events%20Media%20Files/Asian-Infrastructure-Investment-Bank.pdf)
+
 *   [Asian Infrastructure Investment Bank (PDF, 431KB)](/files/Events%20Media%20Files/Asian-Infrastructure-Investment-Bank.pdf)
 *   [European Investment Bank (PDF, 159KB)](/files/Events%20Media%20Files/European-Investment-Bank.pdf)
 *   [Mohamed El-Erian (Allianz) (PDF, 418KB)](/files/Events%20Media%20Files/Mohd-El-Erian.pdf)
