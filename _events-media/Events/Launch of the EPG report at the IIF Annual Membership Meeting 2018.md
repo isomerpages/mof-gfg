@@ -4,13 +4,16 @@ permalink: /events-media/events/2018-iif-epg-panel-launch/
 description: ""
 third_nav_title: Events
 ---
-[PRESS STATEMENT ON THE RELEASE OF G20 EPG ON GLOBAL FINANCIAL GOVERNANCE REPORT](/files/Events%20Media%20Files/press-statement-on-launch-of-g20-epg-report-2018-making-the-global-financial-system-work-for-all.pdf)
+[Press Statement on the Release of G20 EPG on Global Financial Governance Report](/files/Events%20Media%20Files/press-statement-on-launch-of-g20-epg-report-2018-making-the-global-financial-system-work-for-all.pdf)
 
-[MEDIA COVERAGE ON THE RELEASE OF G20 EPG ON GLOBAL FINANCIAL GOVERNANCE REPORT](https://www.globalfinancialgovernance.org/events-and-non-papers/media-coverage)
+[Media Coverage on the Release of G20 EPG on Global Financial Governance Report](https://www.globalfinancialgovernance.org/events-and-non-papers/media-coverage)
 
-[PHOTOS OF THE EPG PANELS AT THE IIF ANNUAL MEMBERSHIP MEETINGS 2018](/events-media/events/2018-iif-epg-panel-photos/)
+[Photos of the EPG Panels at the IIF Annual Membership Meetings 2018](/events-media/events/2018-iif-epg-panel-photos/)
 
 #### IN CONVERSATION: MAKING THE SYSTEM WORK AS A SYSTEM
+
+[![In Conversation with Tharman at IIF annual meeting](/images/Events%20Media/2018-11-in-conversation-tharman.jpg)
+Link to video](https://www.youtube.com/watch?v=wdr8IXFUPA0)
 
 The conversation discussed the key recommendations of the G20 Eminent Persons Group on Global Financial Governance (EPG)’s Report. The Group called for reforms to meet the realities of a new era: a multipolar, yet more interconnected world; with development challenges ahead that are much larger than we have seen in decades; and with significant work still needed to avert damaging financial crises.
 
@@ -20,6 +23,8 @@ The conversation discussed the key recommendations of the G20 Eminent Persons Gr
     
 
 #### EPG - ACHIEVING GREATER DEVELOPMENT IMPACT: COLLABORATING ACROSS THE SYSTEM
+[![EPG Panel](/images/Events%20Media/2018-11-epg-panel.jpg)
+Link to video](https://www.youtube.com/watch?v=SRdWZ4Gqyi0)
 
 The next decade is critical, EPG members discussed the Group’s proposals to reduce and manage risk, catalyze much larger private investment, and achieve substantially greater impact in sustainable development and inclusive growth, and in managing the growing pressures in the global commons.
 
@@ -33,6 +38,8 @@ The next decade is critical, EPG members discussed the Group’s proposals to re
     
 
 #### EPG - SECURING THE BENEFITS OF INTERCONNECTED FINANCIAL MARKETS: REFORMS FOR GLOBAL FINANCIAL RESILIENCE
+[![EPG Panel](/images/Events%20Media/2018-11-epg-panel2.jpg)
+Link to video](https://www.youtube.com/watch?v=l1XbtR5imeU)
 
 A decade after the global financial crisis, further reforms are needed to enable countries to get the full benefits of capital flows without the bouts of instability that set back growth, and to avert another major global crisis. This panel discussed the Group’s proposals on issues concerning capital flows, risk surveillance, and the global financial safety net.
 
