@@ -20,9 +20,9 @@ The EPG’s report – Making the Global Financial System Work for All was prese
 
 Fireside chat organised by the Council on Foreign Relations in November 2018
 
-Four members1 of the EPG were invited by the Council on Foreign Relations (CFR) to speak on the EPG report at the CFR's Council meeting in New York on November 29, 2018.
+Four members^^ of the EPG were invited by the Council on Foreign Relations (CFR) to speak on the EPG report at the CFR's Council meeting in New York on November 29, 2018.
 
-1The EPG members were Tharman Shanmugaratnam (chair of the EPG), Jacob Frenkel, Raghuram Rajan and Jean Claude Trichet.
+^^The EPG members were Tharman Shanmugaratnam (chair of the EPG), Jacob Frenkel, Raghuram Rajan and Jean Claude Trichet.
 
 [FIND OUT MORERIGHT ARROW](https://www.globalfinancialgovernance.org/events-and-non-papers/events/fireside-chat-organised-by-the-council-on-foreign-relations-in-november-2018)
 
