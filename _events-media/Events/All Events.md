@@ -52,4 +52,4 @@ The EPG held several Roundtables on the Impact of Technology on Global Financial
 EPG Roundtables with Development Think Tanks and Civil Society Organisations Hosted by the Center for Global Development in April and June 2018
 
 The EPG held two Roundtables hosted by the Center for Global Development to meet with and receive valuable feedback from Development Think Tanks and senior representatives from Civil Society Organisations.
-[FIND OUT MORE](https://www.globalfinancialgovernance.org/events-and-non-papers/events/epg-roundtables-with-development-think-tankers-and-civil-society-organisations)
+[FIND OUT MORE](/events-media/events/2018-epg-roundtable-think-tanks-and-civil-society/ )
