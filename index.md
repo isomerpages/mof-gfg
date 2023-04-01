@@ -34,13 +34,13 @@ sections:
       alt: download report
   - infopic:
       title: About the G20 Eminent Persons Group
-      button: Find Out More
+      button: More
       url: /about-the-epg/
       image: /images/overview-photo.jpg
       alt: Image alt text
   - infobar:
       title: Acknowledgements
       subtitle: "-"
-      button: Eminent Persons Group
+      button: More
       url: /acknowledgements/
 ---
