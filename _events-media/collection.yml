@@ -2,8 +2,6 @@ collections:
   events-media:
     output: true
     order:
-      - Events/EPG Roundtables with Development Think Tanks and Civil Society
-        Organisations in April and June 2018.md
       - Events/.keep
       - Events/All Events.md
       - Events/United Nations 2019 ECOSOC Forum.md
@@ -18,5 +16,7 @@ collections:
         December 2017.md
       - Events/EPG Roundtable on Technology and Global Financial Governance
         hosted by Stanford.md
+      - Events/EPG Roundtables with Development Think Tanks and Civil Society
+        Organisations in April and June 2018.md
       - Non Papers/.keep
       - Media Coverage.md
