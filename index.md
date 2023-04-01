@@ -32,19 +32,15 @@ sections:
       url: /report-of-the-g20-epg-on-gfg/
       image: /images/Report/img-download-report.jpg
       alt: download report
-  - infobar:
-      button: Download
-      url: /report-of-the-g20-epg-on-gfg/
-      title: Report of the G20 EPG
-  - infobar:
-      title: Acknowledgements
-      subtitle: "-"
-      button: Eminent Persons Group
-      url: /acknowledgements/
   - infopic:
       title: About the G20 Eminent Persons Group
       button: Find Out Mode
       url: /about-the-epg/
       image: /images/overview-photo.jpg
       alt: Image alt text
+  - infobar:
+      title: Acknowledgements
+      subtitle: "-"
+      button: Eminent Persons Group
+      url: /acknowledgements/
 ---
