@@ -33,4 +33,3 @@ third_nav_title: Events
 | ![IIF photo](/images/Events%20Media/IIF/MRC03345.jpg)| ![IIF photo](/images/Events%20Media/IIF/MRC03350.jpg)|
 | ![IIF photo](/images/Events%20Media/IIF/MRC03351.jpg)| ![IIF photo](/images/Events%20Media/IIF/MRC03352.jpg)|
 | ![IIF photo](/images/Events%20Media/IIF/MRC03373.jpg)| ![blank](/images/Events%20Media/IIF/blanky.jpg)|
-| ![blank](/images/Events%20Media/IIF/blanky.jpg) | ![blank](/images/Events%20Media/IIF/blanky.jpg) |
