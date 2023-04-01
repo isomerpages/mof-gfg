@@ -13,7 +13,7 @@ description: ""
 * [World Economic Forum: 9 ways to strengthen the global economic response to COVID-19, April 2020](https://www.weforum.org/agenda/2020/04/9-ideas-strengthen-global-covid-19-firepower/)
 * [Brookings Institution: Will the G-20 provide the urgent leadership needed on climate action?, June 2019](https://www.brookings.edu/blog/future-development/2019/06/14/will-the-g-20-provide-the-urgent-leadership-needed-on-climate-action/)
 * [VoxEU CEPR Policy Portal: The effectiveness of the global financial safety net depends on the tools and shocks, April 2019](https://voxeu.org/article/effectiveness-global-financial-safety-net)
-* [Financial Times Print: A New Co-operative Order for a New Era, 12 October 2018 (PDF, 310KB)](https://www.globalfinancialgovernance.org/assets/pdf/FT-print-op-ed.pdf)
+* [Financial Times Print: A New Co-operative Order for a New Era, 12 October 2018 (PDF, 310KB)](/files/Events%20Media%20Files/FT-print-op-ed.pdf)
 The op-ed appeared on the Financial Times on 12 October 2018. It is reproduced with permission.
     
 * [Financial Times: A New, More Cooperative International Order, 11 October 2018](https://www.ft.com/content/29dd6c92-cbb7-11e8-8d0b-a6539b949662)
