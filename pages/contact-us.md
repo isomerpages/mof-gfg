@@ -7,6 +7,7 @@ contacts:
   - content:
       - phone: ""
       - email: contact@globalfinancialgovernance.org
-      - other: ""
+      - other: "We would greatly value your feedback on the EPG report and its
+          proposals. "
     title: Feedback
 ---
