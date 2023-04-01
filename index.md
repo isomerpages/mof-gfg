@@ -34,7 +34,7 @@ sections:
       alt: download report
   - infopic:
       title: About the G20 Eminent Persons Group
-      button: Find Out Mode
+      button: Find Out More
       url: /about-the-epg/
       image: /images/overview-photo.jpg
       alt: Image alt text
