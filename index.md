@@ -27,9 +27,9 @@ sections:
           url: /governance/
       subtitle: Cooperative International Order
   - infobar:
-      description: Report of the G20 EPG on Global Financial Governance
       button: Download
       url: /report-of-the-g20-epg-on-gfg/
+      title: Report of the G20 EPG
   - infobar:
       title: Acknowledgements
       subtitle: "-"
