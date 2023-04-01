@@ -23,38 +23,33 @@ Fireside chat organised by the Council on Foreign Relations in November 2018
 Four members^^ of the EPG were invited by the Council on Foreign Relations (CFR) to speak on the EPG report at the CFR's Council meeting in New York on November 29, 2018.
 
 ^^The EPG members were Tharman Shanmugaratnam (chair of the EPG), Jacob Frenkel, Raghuram Rajan and Jean Claude Trichet.
+[FIND OUT MORE](/events-media/events/2018-council-on-foreign-relations/)
 
-[FIND OUT MORERIGHT ARROW](https://www.globalfinancialgovernance.org/events-and-non-papers/events/fireside-chat-organised-by-the-council-on-foreign-relations-in-november-2018)
-
-![roundtable](https://www.globalfinancialgovernance.org/assets/images/epg-roundtable.jpg)
+![roundtable](/images/Events%20Media/epg-roundtable.jpg)
 
 Roundtable organised by the Center for Global Development (CGD), London School of Economics and Political Science (LSE), Reinventing Bretton Woods Committee (RBWC) and University of Indonesia (UI) in October 2018
 
 Three Roundtable discussions were held on 13 October on the sidelines of the IMF-WB Annual Meetings in Bali to draw perspectives from country delegates, civil society organisations and the Multilateral Development Banks on the EPG’s report – Making the Global Financial System Work for All.
+[FIND OUT MORE](/events-media/events/2018-roundtable-center-for-global-development/)
 
-[FIND OUT MORERIGHT ARROW](https://www.globalfinancialgovernance.org/events-and-non-papers/events/roundtable-organised-by-the-center-for-global-development)
-
-![bundesbank](https://www.globalfinancialgovernance.org/assets/images/bundesbank.jpg)
+![bundesbank](/images/Events%20Media/bundesbank.jpg)
 
 EPG Frankfurt Symposium hosted by the Deutsche Bundesbank in December 2017
 
 The EPG held a Symposium on December 4-5, 2017 to delve into relevant issues on Global Financial Governance and draw on the views of respected thought leaders and experts. Close to 80 participants attended, including senior representatives from the International Financial Institutions.
 
-[FIND OUT MORERIGHT ARROW](https://www.globalfinancialgovernance.org/events-and-non-papers/events/epg-frankfurt-symposium-hosted-by-the-deutsche-bundesbank-in-december-2017)
+[FIND OUT MORE](/events-media/events/2017-epg-frankfurt-symposium-by-deutsche-bundesbank/)
 
-![hoover-institutestanford](https://www.globalfinancialgovernance.org/assets/images/hoover-institutestanford.png)
+![hoover-institutestanford](/images/Events%20Media/hoover-institutestanford.png)
 
 EPG Roundtable on Technology and Global Financial Governance hosted by Stanford University’s Hoover Institution in February 2018
 
 The EPG held several Roundtables on the Impact of Technology on Global Financial Governance on February 23, 2018 hosted by the Hoover Institution at Stanford University. This was an outreach to experts from the scientific, technological and business communities to discuss latest developments and governance implications arising from software, fintech, cybercurrency, artificial intelligence, private investment flows, and health care.
+[FIND OUT MORE](/events-media/events/2018-epg-roundtable-stanford/)
 
-[FIND OUT MORERIGHT ARROW](https://www.globalfinancialgovernance.org/events-and-non-papers/events/epg-roundtable-on-technology-and-global-financial-governance)
-
-![roundtable](https://www.globalfinancialgovernance.org/assets/images/epg-roundtable.jpg)
+![roundtable](/images/Events%20Media/epg-roundtable.jpg)
 
 EPG Roundtables with Development Think Tanks and Civil Society Organisations Hosted by the Center for Global Development in April and June 2018
 
 The EPG held two Roundtables hosted by the Center for Global Development to meet with and receive valuable feedback from Development Think Tanks and senior representatives from Civil Society Organisations.
-
-[FIND OUT MORERIGHT ARROW  
-](https://www.globalfinancialgovernance.org/events-and-non-papers/events/epg-roundtables-with-development-think-tankers-and-civil-society-organisations)
+[FIND OUT MORE](https://www.globalfinancialgovernance.org/events-and-non-papers/events/epg-roundtables-with-development-think-tankers-and-civil-society-organisations)
