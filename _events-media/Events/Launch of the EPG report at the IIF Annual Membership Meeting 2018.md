@@ -4,7 +4,7 @@ permalink: /events-media/events/2018-iif-epg-panel-launch/
 description: ""
 third_nav_title: Events
 ---
-[PRESS STATEMENT ON THE RELEASE OF G20 EPG ON GLOBAL FINANCIAL GOVERNANCE REPORT](https://www.globalfinancialgovernance.org/assets/pdf/Press-Statement-on-Launch-of-G20-EPG-report-2018-Making-the-Global-Financial-System-Work-for-All.pdf)
+[PRESS STATEMENT ON THE RELEASE OF G20 EPG ON GLOBAL FINANCIAL GOVERNANCE REPORT](/files/Events%20Media%20Files/press-statement-on-launch-of-g20-epg-report-2018-making-the-global-financial-system-work-for-all.pdf)
 
 [MEDIA COVERAGE ON THE RELEASE OF G20 EPG ON GLOBAL FINANCIAL GOVERNANCE REPORT](https://www.globalfinancialgovernance.org/events-and-non-papers/media-coverage)
 
