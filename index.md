@@ -26,6 +26,12 @@ sections:
           description: Make System work as a System
           url: /governance/
       subtitle: Cooperative International Order
+  - infopic:
+      title: Report of the G20 EPG
+      button: Download
+      url: /report-of-the-g20-epg-on-gfg/
+      image: /images/Report/img-download-report.jpg
+      alt: download report
   - infobar:
       button: Download
       url: /report-of-the-g20-epg-on-gfg/
@@ -35,10 +41,4 @@ sections:
       subtitle: "-"
       button: Eminent Persons Group
       url: /acknowledgements/
-  - infopic:
-      title: Report of the G20 EPG
-      button: Download
-      url: /report-of-the-g20-epg-on-gfg/
-      image: /images/Report/img-download-report.jpg
-      alt: download report
 ---
