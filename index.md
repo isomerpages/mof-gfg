@@ -8,7 +8,7 @@ description: The Group was formally established by the G20 Finance Ministers and
   sustainable growth in a new global era.
 image: /images/gfg-title.png
 permalink: /
-notification: "Notification: This is a staging site!"
+notification: ""
 sections:
   - hero:
       title: Why the need for reform
