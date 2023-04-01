@@ -8,7 +8,7 @@ third_nav_title: Events
 **United Nations 2019 ECOSOC Forum on Financing for Development follow-up (FfD Forum) in April 2019** 
 Deputy Prime Minister Tharman Shanmugaratnam was invited to deliver the keynote address at the FfD Forum on 15 April 2019 at the UN Headquarters in New York. In his address, he touched on several international finance and development issues, including recommendations featured in the EPG report.
 
-[FIND OUT MORE](https://www.globalfinancialgovernance.org/events-and-non-papers/events/united-nations-2019-ecosoc-forum-on-financing-for-development-follow-up)
+[FIND OUT MORE](/events-media/2019-united-nations-ecosoc/)
 
 ![IIF Annual](https://www.globalfinancialgovernance.org/assets/images/IIF%20Annual.jpeg)
 
