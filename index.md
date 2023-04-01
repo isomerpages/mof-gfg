@@ -35,4 +35,10 @@ sections:
       subtitle: "-"
       button: Eminent Persons Group
       url: /acknowledgements/
+  - infopic:
+      title: Report of the G20 EPG
+      button: Download
+      url: /report-of-the-g20-epg-on-gfg/
+      image: /images/Report/img-download-report.jpg
+      alt: download report
 ---
