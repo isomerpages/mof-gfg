@@ -2,6 +2,8 @@ collections:
   g20-eminent-persons-group:
     output: true
     order:
+      - Report of the G20 Eminent Persons Group on Global Financial Governance
+        (EPG).md
       - Foreword.md
       - Overview.md
       - Development.md
