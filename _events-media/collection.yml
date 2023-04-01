@@ -2,6 +2,8 @@ collections:
   events-media:
     output: true
     order:
+      - Events/Roundtable organised by the Center for Global Development (CGD)
+        LSE.md
       - Events/EPG Frankfurt Symposium hosted by the Deutsche Bundesbank in
         December 2017.md
       - Events/EPG Roundtable on Technology and Global Financial Governance
