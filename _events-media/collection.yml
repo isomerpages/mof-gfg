@@ -2,6 +2,8 @@ collections:
   events-media:
     output: true
     order:
+      - Events/Launch of the EPG report at the IIF Annual Membership Meeting
+        2018.md
       - Events/EPG Panels at the IIF Annual Membership Meetings 2018.md
       - Events/.keep
       - Events/United Nations 2019 ECOSOC Forum.md
