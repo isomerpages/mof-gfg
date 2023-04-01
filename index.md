@@ -41,4 +41,10 @@ sections:
       subtitle: "-"
       button: Eminent Persons Group
       url: /acknowledgements/
+  - infopic:
+      title: About the G20 Eminent Persons Group
+      button: Find Out Mode
+      url: /about-the-epg/
+      image: /images/overview-photo.jpg
+      alt: Image alt text
 ---
