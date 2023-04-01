@@ -27,14 +27,12 @@ sections:
           url: /governance/
       subtitle: Cooperative International Order
   - infobar:
-      subtitle: Download
       description: Report of the G20 EPG on Global Financial Governance
-      button: Full Report (4,702 KB)
-      url: /faq/
+      button: Download
+      url: /report-of-the-g20-epg-on-gfg/
   - infobar:
       title: Acknowledgements
       subtitle: "-"
       description: 160 chars here...
       button: Button Text
 ---
-
