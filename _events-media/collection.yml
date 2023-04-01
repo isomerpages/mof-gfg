@@ -2,6 +2,7 @@ collections:
   events-media:
     output: true
     order:
+      - Events/EPG Panels at the IIF Annual Membership Meetings 2018.md
       - Events/.keep
       - Events/United Nations 2019 ECOSOC Forum.md
       - Events/All Events.md
