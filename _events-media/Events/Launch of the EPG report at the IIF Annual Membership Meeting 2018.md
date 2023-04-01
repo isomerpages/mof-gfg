@@ -6,7 +6,7 @@ third_nav_title: Events
 ---
 [Press Statement on the Release of G20 EPG on Global Financial Governance Report](/files/Events%20Media%20Files/press-statement-on-launch-of-g20-epg-report-2018-making-the-global-financial-system-work-for-all.pdf)
 
-[Media Coverage on the Release of G20 EPG on Global Financial Governance Report](https://www.globalfinancialgovernance.org/events-and-non-papers/media-coverage)
+[Media Coverage on the Release of G20 EPG on Global Financial Governance Report](/events-media/non-papers/)
 
 [Photos of the EPG Panels at the IIF Annual Membership Meetings 2018](/events-media/events/2018-iif-epg-panel-photos/)
 
