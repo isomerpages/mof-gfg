@@ -7,18 +7,16 @@ third_nav_title: Events
 ![Image of United Nations 2019](/images/Events%20Media/img-united-nations-2019.jpg) 
 **United Nations 2019 ECOSOC Forum on Financing for Development follow-up (FfD Forum) in April 2019** 
 Deputy Prime Minister Tharman Shanmugaratnam was invited to deliver the keynote address at the FfD Forum on 15 April 2019 at the UN Headquarters in New York. In his address, he touched on several international finance and development issues, including recommendations featured in the EPG report.
-
 [FIND OUT MORE](/events-media/2019-united-nations-ecosoc/)
 
-![IIF Annual](https://www.globalfinancialgovernance.org/assets/images/IIF%20Annual.jpeg)
+![IIF Annual](/images/Events%20Media/iif%20annual.jpg)
 
 Launch of the EPG report at the IIF Annual Membership Meeting 2018
 
 The EPG’s report – Making the Global Financial System Work for All was presented on 11 October to the G20 Finance Ministers and Central Bank Governors (FMCBG) at their meeting in Bali, and featured in discussions at the 2018 Institute of International Finance (IIF) Annual Membership Meeting on 12 October. Three EPG-focused panels - (i) In Conversation with EPG Chair, Deputy Prime Minister Tharman Shanmugaratnam, (ii) panel on Achieving Greater Development Impact: Collaborating across the System, and (iii) panel on Securing the Benefits of Interconnected Financial Markets: Reforms for Global Financial Resilience were held during the IIF meeting.
+[FIND OUT MORE](/events-media/events/2018-iif-epg-panel-launch/)
 
-[FIND OUT MORERIGHT ARROW](https://www.globalfinancialgovernance.org/events-and-non-papers/events/epg-panels-at-the-iif-annual-membership-meetings-2018)
-
-![Fireside chat](https://www.globalfinancialgovernance.org/assets/images/cfr-logo-og.png)
+![Fireside chat](/images/Events%20Media/cfr-logo-og.png)
 
 Fireside chat organised by the Council on Foreign Relations in November 2018
 
