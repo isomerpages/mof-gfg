@@ -33,6 +33,6 @@ sections:
   - infobar:
       title: Acknowledgements
       subtitle: "-"
-      description: 160 chars here...
-      button: Button Text
+      button: Eminent Persons Group
+      url: /acknowledgements/
 ---
