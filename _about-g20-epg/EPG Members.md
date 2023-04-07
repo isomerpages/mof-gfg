@@ -13,11 +13,12 @@ description: ""
 	</tr>
 	
 	<tr>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/Dr-Ngozi-Okonjo-Iweala.jpg"></td>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/Professor-John-B-Taylor.jpg"></td>
 	</tr>
-	<tr><td width="50%"><b></b></td>
-	<td width="50%"><b></b></td>
+	<tr><td width="50%"><b>Ngozi Okonjo-Iweala</b>Chairperson of the Board of GAVI; former Coordinating Minister for the Economy and Minister for Finance, Nigeria; former Managing Director of the World Bank</td>
+	<td width="50%"><b>John B. Taylor</b>Mary and Robert Raymond Professor of Economics at Stanford University and George P. Shultz Senior Fellow at Stanford University’s Hoover Institution; former Under Secretary of the Treasury, US
+</td>
 	</tr>
 	
 	<tr>
