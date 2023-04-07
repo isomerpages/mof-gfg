@@ -30,9 +30,9 @@ description: ""
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Issing.jpg"></td>
 	</tr>
 	<tr><td width="50%"><b>Sufian Ahmed</b>
-		Advisor to the Prime Minister of Ethiopia; former Minister for Finance and Economic Development, Ethiopia; former Vice-Chair of the Intergovernmental Group of Twenty-Four on International Monetary Affairs and Development</td>
+		<br>Advisor to the Prime Minister of Ethiopia; former Minister for Finance and Economic Development, Ethiopia; former Vice-Chair of the Intergovernmental Group of Twenty-Four on International Monetary Affairs and Development</td>
 	<td width="50%"><b>Otmar Issing</b>
-President of the Center for Financial Studies, Goethe University; former member of the Executive Board and Chief Economist of the European Central Bank</td>
+<br>President of the Center for Financial Studies, Goethe University; former member of the Executive Board and Chief Economist of the European Central Bank</td>
 	</tr>
 
 	<tr>
@@ -40,10 +40,10 @@ President of the Center for Financial Studies, Goethe University; former member 
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Jean-Claude%20TRICHET.jpg"></td>
 	</tr>
 	<tr><td width="50%"><b>Raghuram G. Rajan</b>
-		Katherine Dusak Miller Distinguished Service Professor of Finance at Booth School of Business at the University of Chicago; former Governor of the Reserve Bank of India; former Economic Counsellor and Director of Research of the IMF</td>
+		<br>Katherine Dusak Miller Distinguished Service Professor of Finance at Booth School of Business at the University of Chicago; former Governor of the Reserve Bank of India; former Economic Counsellor and Director of Research of the IMF</td>
 	<td width="50%"><b>Jean-Claude Trichet</b>
 
-		Chairman of the European Group of the Trilateral Commission; Chairman of the Board of the Bruegel Institute; former President of the European Central Bank
+		<br>Chairman of the European Group of the Trilateral Commission; Chairman of the Board of the Bruegel Institute; former President of the European Central Bank
 </td>
 	</tr>
 		
@@ -52,9 +52,9 @@ President of the Center for Financial Studies, Goethe University; former member 
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Ito.jpg"></td>
 	</tr>
 	<tr><td width="50%"><b>Ali Babacan</b>
-		Former Deputy Prime Minister for Economic and Financial Affairs; former Foreign Affairs Minister and former Treasury Minister, Turkey</td>
+		<br>Former Deputy Prime Minister for Economic and Financial Affairs; former Foreign Affairs Minister and former Treasury Minister, Turkey</td>
 	<td width="50%"><b>Takatoshi Ito</b>
-		Professor of International and Public Affairs at Columbia University; former Deputy Vice-Minister of Finance for International Affairs, Japan</td>
+	<br>Professor of International and Public Affairs at Columbia University; former Deputy Vice-Minister of Finance for International Affairs, Japan</td>
 	</tr>
 		
 	<tr>
@@ -62,9 +62,9 @@ President of the Center for Financial Studies, Goethe University; former member 
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Professor-Andres-Velasco.jpg"></td>
 	</tr>
 	<tr><td width="50%"><b>Fabrizio Saccomanni</b>
-Chairman of the Board of Directors of UniCredit; former Minister for Economy and Finance, Italy; former Director General of the Bank of Italy</td>
+<br>Chairman of the Board of Directors of UniCredit; former Minister for Economy and Finance, Italy; former Director General of the Bank of Italy</td>
 	<td width="50%"><b>Andrés Velasco</b>
-Dean of the School of Public Policy at the London School of Economics and Political Science; former Professor of Professional Practice in International Development at Columbia University; former Sumitomo Professor of International Finance, Harvard Kennedy School; former Minister for Finance, Chile</td>
+<br>Dean of the School of Public Policy at the London School of Economics and Political Science; former Professor of Professional Practice in International Development at Columbia University; former Sumitomo Professor of International Finance, Harvard Kennedy School; former Minister for Finance, Chile</td>
 	</tr>		
 
 	<tr>
@@ -72,9 +72,9 @@ Dean of the School of Public Policy at the London School of Economics and Politi
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Lustig.jpg"></td>
 	</tr>
 	<tr><td width="50%"><b>Marek Belka</b>
-Former Chairman of IMF-World Bank Development Committee; former Prime Minister of Poland; former President of the National Bank of Poland</td>
+<br>Former Chairman of IMF-World Bank Development Committee; former Prime Minister of Poland; former President of the National Bank of Poland</td>
 	<td width="50%"><b>Nora Lustig</b>
-Samuel Z. Stone Professor of Latin American Economics and Director of the Commitment to Equity Institute at Tulane University; President Emeritus of the Latin American and Caribbean Economic Association; former Senior Advisor on Poverty of the IDB</td>
+<br>Samuel Z. Stone Professor of Latin American Economics and Director of the Commitment to Equity Institute at Tulane University; President Emeritus of the Latin American and Caribbean Economic Association; former Senior Advisor on Poverty of the IDB</td>
 	</tr>			
 
 	<tr>
@@ -82,9 +82,9 @@ Samuel Z. Stone Professor of Latin American Economics and Director of the Commit
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Zhumin.jpg"></td>
 	</tr>
 	<tr><td width="50%"><b>Lord Nicholas Stern</b>
-IG Patel Professor of Economics and Government at the London School of Economics and Political Science; former Chief Economist and Senior Vice-President of the World Bank; former Chief Economist of the EBRD</td>
+<br>IG Patel Professor of Economics and Government at the London School of Economics and Political Science; former Chief Economist and Senior Vice-President of the World Bank; former Chief Economist of the EBRD</td>
 	<td width="50%"><b>Zhu Min</b>
-President of the National Institute of Financial Research at Tsinghua University; former Deputy Managing Director of the IMF</td>
+<br>President of the National Institute of Financial Research at Tsinghua University; former Deputy Managing Director of the IMF</td>
 	</tr>	
 	
 	</tbody></table>
@@ -94,18 +94,15 @@ President of the National Institute of Financial Research at Tsinghua University
 <table><tbody>
 
 	<tr><td width="50%"><b>Siddharth Tiwari (Executive Secretary)</b>
-
-Distinguished Visiting Fellow at Lee Kuan Yew School of Public Policy; former Director of the Strategy, Policy and Review Department of the International Monetary Fund</td>
+<br>Distinguished Visiting Fellow at Lee Kuan Yew School of Public Policy; former Director of the Strategy, Policy and Review Department of the International Monetary Fund</td>
 	<td width="50%"><b>David Marston</b>
-Former Chief Risk Officer of the International Monetary Fund</td>
+<br>Former Chief Risk Officer of the International Monetary Fund</td>
 	</tr>	
 
 	<tr><td width="50%"><b>Erik Berglöf</b>
-
-Director of the Institute of Global Affairs at London School of Economics and Political Science; former Chief Economist of the European Bank for Reconstruction and Development</td>
+<br>Director of the Institute of Global Affairs at London School of Economics and Political Science; former Chief Economist of the European Bank for Reconstruction and Development</td>
 	<td width="50%"><b>R. Kyle Peters</b>
-
-Former Senior Vice-President of Operations of the World Bank</td>
+<br>Former Senior Vice-President of Operations of the World Bank</td>
 	</tr>	
 	
 	</tbody></table>
