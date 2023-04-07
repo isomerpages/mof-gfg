@@ -77,11 +77,13 @@ Samuel Z. Stone Professor of Latin American Economics and Director of the Commit
 	</tr>			
 
 	<tr>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/Lord-Nicholas-Stern.jpg"></td>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/Zhumin.jpg"></td>
 	</tr>
-	<tr><td width="50%"><b></b></td>
-	<td width="50%"><b></b></td>
+	<tr><td width="50%"><b>Lord Nicholas Stern</b>
+IG Patel Professor of Economics and Government at the London School of Economics and Political Science; former Chief Economist and Senior Vice-President of the World Bank; former Chief Economist of the EBRD</td>
+	<td width="50%"><b>Zhu Min</b>
+President of the National Institute of Financial Research at Tsinghua University; former Deputy Managing Director of the IMF</td>
 	</tr>	
 
 	<tr>
