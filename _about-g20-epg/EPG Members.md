@@ -8,7 +8,8 @@ description: ""
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/DPM-Tharman-Shanmugaratnam.jpg"></td>
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Frenkel.jpg"></td>
 	</tr>
-	<tr><td width="50%"><b>Tharman Shanmugaratnam (Chair)</b> Deputy Prime Minister, Singapore; Coordinating Minister for Economic and Social Policies, Singapore; Chairman, Monetary Authority of Singapore; Chairman of the Group of Thirty; former Chairman of the International Monetary and Financial Committee</td>
+	<tr><td width="50%"><b>Tharman Shanmugaratnam (Chair)</b> 
+		Deputy Prime Minister, Singapore; Coordinating Minister for Economic and Social Policies, Singapore; Chairman, Monetary Authority of Singapore; Chairman of the Group of Thirty; former Chairman of the International Monetary and Financial Committee</td>
 	<td width="50%"><b>Jacob A. Frenkel</b> Chairman of JP Morgan Chase International; Chairman of the Board of Trustees of the Group of Thirty; former Governor of the Bank of Israel; former Chairman of the Inter-American Development Bank; former Economic Counsellor and Director of Research of the IMF</td>
 	</tr>
 	
@@ -16,8 +17,10 @@ description: ""
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Dr-Ngozi-Okonjo-Iweala.jpg"></td>
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Professor-John-B-Taylor.jpg"></td>
 	</tr>
-	<tr><td width="50%"><b>Ngozi Okonjo-Iweala</b>Chairperson of the Board of GAVI; former Coordinating Minister for the Economy and Minister for Finance, Nigeria; former Managing Director of the World Bank</td>
-	<td width="50%"><b>John B. Taylor</b>Mary and Robert Raymond Professor of Economics at Stanford University and George P. Shultz Senior Fellow at Stanford University’s Hoover Institution; former Under Secretary of the Treasury, US
+	<tr><td width="50%"><b>Ngozi Okonjo-Iweala</b>
+		Chairperson of the Board of GAVI; former Coordinating Minister for the Economy and Minister for Finance, Nigeria; former Managing Director of the World Bank</td>
+	<td width="50%"><b>John B. Taylor</b>
+		Mary and Robert Raymond Professor of Economics at Stanford University and George P. Shultz Senior Fellow at Stanford University’s Hoover Institution; former Under Secretary of the Treasury, US
 </td>
 	</tr>
 	
@@ -25,7 +28,8 @@ description: ""
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Sufian.jpg"></td>
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Issing.jpg"></td>
 	</tr>
-	<tr><td width="50%"><b>Sufian Ahmed</b>Advisor to the Prime Minister of Ethiopia; former Minister for Finance and Economic Development, Ethiopia; former Vice-Chair of the Intergovernmental Group of Twenty-Four on International Monetary Affairs and Development</td>
+	<tr><td width="50%"><b>Sufian Ahmed</b>
+		Advisor to the Prime Minister of Ethiopia; former Minister for Finance and Economic Development, Ethiopia; former Vice-Chair of the Intergovernmental Group of Twenty-Four on International Monetary Affairs and Development</td>
 	<td width="50%"><b>Otmar Issing</b>
 President of the Center for Financial Studies, Goethe University; former member of the Executive Board and Chief Economist of the European Central Bank</td>
 	</tr>
@@ -34,9 +38,11 @@ President of the Center for Financial Studies, Goethe University; former member 
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Raghuram-Rajan.jpg"></td>
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Jean-Claude%20TRICHET.jpg"></td>
 	</tr>
-	<tr><td width="50%"><b>Raghuram G. Rajan</b>Katherine Dusak Miller Distinguished Service Professor of Finance at Booth School of Business at the University of Chicago; former Governor of the Reserve Bank of India; former Economic Counsellor and Director of Research of the IMF</td>
+	<tr><td width="50%"><b>Raghuram G. Rajan</b>
+		Katherine Dusak Miller Distinguished Service Professor of Finance at Booth School of Business at the University of Chicago; former Governor of the Reserve Bank of India; former Economic Counsellor and Director of Research of the IMF</td>
 	<td width="50%"><b>Jean-Claude Trichet</b>
-Chairman of the European Group of the Trilateral Commission; Chairman of the Board of the Bruegel Institute; former President of the European Central Bank
+
+		Chairman of the European Group of the Trilateral Commission; Chairman of the Board of the Bruegel Institute; former President of the European Central Bank
 </td>
 	</tr>
 		
@@ -44,8 +50,10 @@ Chairman of the European Group of the Trilateral Commission; Chairman of the Boa
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/babacan.jpg"></td>
 		<td width="50%"><img width="287px" length="289px" src="/images/Members/Ito.jpg"></td>
 	</tr>
-	<tr><td width="50%"><b>Ali Babacan</b>Former Deputy Prime Minister for Economic and Financial Affairs; former Foreign Affairs Minister and former Treasury Minister, Turkey</td>
-	<td width="50%"><b>Takatoshi Ito</b>Professor of International and Public Affairs at Columbia University; former Deputy Vice-Minister of Finance for International Affairs, Japan</td>
+	<tr><td width="50%"><b>Ali Babacan</b>
+		Former Deputy Prime Minister for Economic and Financial Affairs; former Foreign Affairs Minister and former Treasury Minister, Turkey</td>
+	<td width="50%"><b>Takatoshi Ito</b>
+		Professor of International and Public Affairs at Columbia University; former Deputy Vice-Minister of Finance for International Affairs, Japan</td>
 	</tr>
 		
 	<tr>
