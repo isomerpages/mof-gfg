@@ -31,11 +31,13 @@ President of the Center for Financial Studies, Goethe University; former member 
 	</tr>
 
 	<tr>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/Raghuram-Rajan.jpg"></td>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/Jean-Claude%20TRICHET.jpg"></td>
 	</tr>
-	<tr><td width="50%"><b></b></td>
-	<td width="50%"><b></b></td>
+	<tr><td width="50%"><b>Raghuram G. Rajan</b>Katherine Dusak Miller Distinguished Service Professor of Finance at Booth School of Business at the University of Chicago; former Governor of the Reserve Bank of India; former Economic Counsellor and Director of Research of the IMF</td>
+	<td width="50%"><b>Jean-Claude Trichet</b>
+Chairman of the European Group of the Trilateral Commission; Chairman of the Board of the Bruegel Institute; former President of the European Central Bank
+</td>
 	</tr>
 		
 	<tr>
