@@ -3,11 +3,9 @@ title: EPG Members
 permalink: /about-the-epg/epg-members/
 description: ""
 ---
-
-
 | ![Tharman Shanmugaratnam (Chair)](/images/Members/DPM-Tharman-Shanmugaratnam.jpg) | ![Jacob A. Frenkel](/images/Members/Frenkel.jpg) |
 | -------- | -------- |
-| **Tharman Shanmugaratnam (Chair)** Deputy Prime Minister, Singapore; Coordinating Minister for Economic and Social Policies, Singapore; Chairman, Monetary Authority of Singapore; Chairman of the Group of Thirty; former Chairman of the International Monetary and Financial Committee    | Text     |
+| Tharman Shanmugaratnam (Chair) Deputy Prime Minister, Singapore; Coordinating Minister for Economic and Social Policies, Singapore; Chairman, Monetary Authority of Singapore; Chairman of the Group of Thirty; former Chairman of the International Monetary and Financial Committee | Jacob A. Frenkel Chairman of JP Morgan Chase International; Chairman of the Board of Trustees of the Group of Thirty; former Governor of the Bank of Israel; former Chairman of the Inter-American Development Bank; former Economic Counsellor and Director of Research of the IMF |
 
 
 ![Tharman Shanmugaratnam (Chair)](/images/Members/DPM-Tharman-Shanmugaratnam.jpg)
