@@ -57,11 +57,13 @@ President of the Center for Financial Studies, Goethe University; former member 
 	</tr>
 		
 	<tr>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/Mr-Fabrizio-Saccomanni.jpg"></td>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/Professor-Andres-Velasco.jpg"></td>
 	</tr>
-	<tr><td width="50%"><b></b></td>
-	<td width="50%"><b></b></td>
+	<tr><td width="50%"><b>Fabrizio Saccomanni</b>
+Chairman of the Board of Directors of UniCredit; former Minister for Economy and Finance, Italy; former Director General of the Bank of Italy</td>
+	<td width="50%"><b>Andrés Velasco</b>
+Dean of the School of Public Policy at the London School of Economics and Political Science; former Professor of Professional Practice in International Development at Columbia University; former Sumitomo Professor of International Finance, Harvard Kennedy School; former Minister for Finance, Chile</td>
 	</tr>		
 
 	<tr>
