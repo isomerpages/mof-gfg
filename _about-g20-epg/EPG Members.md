@@ -67,11 +67,13 @@ Dean of the School of Public Policy at the London School of Economics and Politi
 	</tr>		
 
 	<tr>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/MBelka.jpg"></td>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/Lustig.jpg"></td>
 	</tr>
-	<tr><td width="50%"><b></b></td>
-	<td width="50%"><b></b></td>
+	<tr><td width="50%"><b>Marek Belka</b>
+Former Chairman of IMF-World Bank Development Committee; former Prime Minister of Poland; former President of the National Bank of Poland</td>
+	<td width="50%"><b>Nora Lustig</b>
+Samuel Z. Stone Professor of Latin American Economics and Director of the Commitment to Equity Institute at Tulane University; President Emeritus of the Latin American and Caribbean Economic Association; former Senior Advisor on Poverty of the IDB</td>
 	</tr>			
 
 	<tr>
