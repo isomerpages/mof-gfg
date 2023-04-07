@@ -41,11 +41,12 @@ Chairman of the European Group of the Trilateral Commission; Chairman of the Boa
 	</tr>
 		
 	<tr>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/babacan.jpg"></td>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/Ito.jpg"></td>
 	</tr>
-	<tr><td width="50%"><b></b></td>
-	<td width="50%"><b></b></td>
+	<tr><td width="50%"><b>Ali Babacan</b>Former Deputy Prime Minister for Economic and Financial Affairs; former Foreign Affairs Minister and former Treasury Minister, Turkey</td>
+	<td width="50%"><b>Takatoshi Ito</b>
+Professor of International and Public Affairs at Columbia University; former Deputy Vice-Minister of Finance for International Affairs, Japan</td>
 	</tr>
 		
 	<tr>
