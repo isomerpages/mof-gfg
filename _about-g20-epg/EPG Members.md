@@ -10,7 +10,25 @@ description: ""
 	</tr>
 	<tr><td width="50%"><b>Tharman Shanmugaratnam (Chair)</b> Deputy Prime Minister, Singapore; Coordinating Minister for Economic and Social Policies, Singapore; Chairman, Monetary Authority of Singapore; Chairman of the Group of Thirty; former Chairman of the International Monetary and Financial Committee</td>
 	<td width="50%"><b>Jacob A. Frenkel</b> Chairman of JP Morgan Chase International; Chairman of the Board of Trustees of the Group of Thirty; former Governor of the Bank of Israel; former Chairman of the Inter-American Development Bank; former Economic Counsellor and Director of Research of the IMF</td>
-	</tr></tbody></table>
+	</tr>
+	
+	<tr>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+	</tr>
+	<tr><td width="50%"><b></b></td>
+	<td width="50%"><b></b></td>
+	</tr>
+	
+	<tr>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+	</tr>
+	<tr><td width="50%"><b></b></td>
+	<td width="50%"><b></b></td>
+	</tr>
+	
+	</tbody></table>
 
 
 
