@@ -93,20 +93,19 @@ President of the National Institute of Financial Research at Tsinghua University
 #### Secretariat
 <table><tbody>
 
-	<tr>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
-	</tr>
-	<tr><td width="50%"><b></b></td>
-	<td width="50%"><b></b></td>
+	<tr><td width="50%"><b>Siddharth Tiwari (Executive Secretary)</b>
+
+Distinguished Visiting Fellow at Lee Kuan Yew School of Public Policy; former Director of the Strategy, Policy and Review Department of the International Monetary Fund</td>
+	<td width="50%"><b>David Marston</b>
+Former Chief Risk Officer of the International Monetary Fund</td>
 	</tr>	
-	
-	<tr>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
-		<td width="50%"><img width="287px" length="289px" src="/"></td>
-	</tr>
-	<tr><td width="50%"><b></b></td>
-	<td width="50%"><b></b></td>
+
+	<tr><td width="50%"><b>Erik Berglöf</b>
+
+Director of the Institute of Global Affairs at London School of Economics and Political Science; former Chief Economist of the European Bank for Reconstruction and Development</td>
+	<td width="50%"><b>R. Kyle Peters</b>
+
+Former Senior Vice-President of Operations of the World Bank</td>
 	</tr>	
 	
 	</tbody></table>
