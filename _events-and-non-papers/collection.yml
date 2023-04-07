@@ -1,5 +1,5 @@
 collections:
-  events-media:
+  events-and-non-papers:
     output: true
     order:
       - Events/.keep
