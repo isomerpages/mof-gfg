@@ -22,13 +22,38 @@ description: ""
 	</tr>
 	
 	<tr>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/Sufian.jpg"></td>
+		<td width="50%"><img width="287px" length="289px" src="/images/Members/Issing.jpg"></td>
+	</tr>
+	<tr><td width="50%"><b>Sufian Ahmed</b>Advisor to the Prime Minister of Ethiopia; former Minister for Finance and Economic Development, Ethiopia; former Vice-Chair of the Intergovernmental Group of Twenty-Four on International Monetary Affairs and Development</td>
+	<td width="50%"><b>Otmar Issing</b>
+President of the Center for Financial Studies, Goethe University; former member of the Executive Board and Chief Economist of the European Central Bank</td>
+	</tr>
+
+	<tr>
 		<td width="50%"><img width="287px" length="289px" src="/"></td>
 		<td width="50%"><img width="287px" length="289px" src="/"></td>
 	</tr>
 	<tr><td width="50%"><b></b></td>
 	<td width="50%"><b></b></td>
 	</tr>
-	
+		
+	<tr>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+	</tr>
+	<tr><td width="50%"><b></b></td>
+	<td width="50%"><b></b></td>
+	</tr>
+		
+	<tr>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+	</tr>
+	<tr><td width="50%"><b></b></td>
+	<td width="50%"><b></b></td>
+	</tr>		
+
 	</tbody></table>
 
 
