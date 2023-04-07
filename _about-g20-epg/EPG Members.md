@@ -64,6 +64,30 @@ President of the Center for Financial Studies, Goethe University; former member 
 	<td width="50%"><b></b></td>
 	</tr>		
 
+	<tr>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+	</tr>
+	<tr><td width="50%"><b></b></td>
+	<td width="50%"><b></b></td>
+	</tr>			
+
+	<tr>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+	</tr>
+	<tr><td width="50%"><b></b></td>
+	<td width="50%"><b></b></td>
+	</tr>	
+
+	<tr>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+		<td width="50%"><img width="287px" length="289px" src="/"></td>
+	</tr>
+	<tr><td width="50%"><b></b></td>
+	<td width="50%"><b></b></td>
+	</tr>	
+		
 	</tbody></table>
 
 
