@@ -1,6 +1,6 @@
 ---
 title: Terms of Reference
-permalink: /about-the-epg/terms-of-reference/
+permalink: /about-g20-epg/terms-of-reference/
 description: ""
 ---
 ### G20 Eminent Persons Group on Global Financial Governance

@@ -1,6 +1,6 @@
 ---
 title: EPG Members
-permalink: /about-the-epg/epg-members/
+permalink: /about-g20-epg/epg-members/
 description: ""
 ---
 #### Members

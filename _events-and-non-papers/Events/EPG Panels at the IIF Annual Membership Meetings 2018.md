@@ -1,6 +1,6 @@
 ---
 title: EPG Panels at the IIF Annual Membership Meetings 2018
-permalink: /events-media/events/2018-iif-epg-panel-photos/
+permalink: /events-media/events/2018-iif-epg-panel-launch/
 description: ""
 third_nav_title: Events
 ---
