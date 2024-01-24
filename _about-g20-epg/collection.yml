@@ -1,0 +1,7 @@
+collections:
+  about-g20-epg:
+    output: true
+    order:
+      - About the EPG.md
+      - Terms of Reference.md
+      - EPG Members.md

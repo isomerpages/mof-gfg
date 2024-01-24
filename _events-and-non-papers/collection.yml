@@ -1,0 +1,22 @@
+collections:
+  events-and-non-papers:
+    output: true
+    order:
+      - Events/.keep
+      - Events/All Events.md
+      - Events/United Nations 2019 ECOSOC Forum.md
+      - Events/Launch of the EPG report at the IIF Annual Membership Meeting
+        2018.md
+      - Events/EPG Panels at the IIF Annual Membership Meetings 2018.md
+      - Events/Fireside chat organised by the Council on Foreign Relations in
+        November 2018.md
+      - Events/Roundtable organised by the Center for Global Development (CGD)
+        LSE.md
+      - Events/EPG Frankfurt Symposium hosted by the Deutsche Bundesbank in
+        December 2017.md
+      - Events/EPG Roundtable on Technology and Global Financial Governance
+        hosted by Stanford.md
+      - Events/EPG Roundtables with Development Think Tanks and Civil Society
+        Organisations in April and June 2018.md
+      - Non Papers.md
+      - Media Coverage.md

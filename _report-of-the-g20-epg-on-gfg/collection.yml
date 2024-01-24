@@ -1,0 +1,13 @@
+collections:
+  report-of-the-g20-epg-on-gfg:
+    output: true
+    order:
+      - Report of the G20 Eminent Persons Group on Global Financial Governance
+        (EPG).md
+      - Foreword.md
+      - Overview.md
+      - Development.md
+      - Finance.md
+      - Governance.md
+      - Annexes.md
+      - List of Contributors.md
