@@ -35,7 +35,7 @@ sections:
   - infopic:
       title: About the G20 Eminent Persons Group
       button: More
-      url: /about-the-epg/
+      url: /about-g20-epg/
       image: /images/overview-photo.jpg
       alt: Image alt text
   - infobar:
