@@ -6,8 +6,8 @@ agency_name: us
 contacts:
   - content:
       - phone: ""
-      - email: contact@globalfinancialgovernance.org
-      - other: "We would greatly value your feedback on the EPG report and its
-          proposals. "
-    title: Feedback
+      - email: ""
+      - other: We would greatly value your feedback on the EPG report and its proposals.
+    title: mas.gov.sg/contact-us
+feedback: ""
 ---
