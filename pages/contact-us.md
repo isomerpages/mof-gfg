@@ -8,6 +8,6 @@ contacts:
       - phone: ""
       - email: ""
       - other: We would greatly value your feedback on the EPG report and its proposals.
-    title: mas.gov.sg/contact-us
+    title: www.mas.gov.sg/contact-us
 feedback: ""
 ---
